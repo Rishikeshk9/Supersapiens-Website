@@ -1,0 +1,4310 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wavo\n"
+"POT-Creation-Date: 2021-04-22 05:44+0300\n"
+"PO-Revision-Date: 2017-03-10 15:06+0300\n"
+"Last-Translator: Ninetheme <pekekonomik@gmail.com>\n"
+"Language-Team: Ninetheme\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_html_e;__;_e;"
+"_n:1,2;_x:1,2c;_ex:1,2c;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:33
+msgid "No template exist for Error Page."
+msgstr ""
+
+#: ../404.php:35
+msgid "Add new page template."
+msgstr ""
+
+#: ../404.php:54
+msgid "page not found"
+msgstr ""
+
+#: ../404.php:62
+msgid "404"
+msgstr ""
+
+#: ../404.php:62
+msgid "Page"
+msgstr ""
+
+#: ../404.php:73
+msgid ""
+"Sorry, but the page you are looking for does not exist or has been removed"
+msgstr ""
+
+#: ../404.php:87
+msgid "Go to home page"
+msgstr ""
+
+#: ../comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:36 ../comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:50
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:65
+msgid "You must be "
+msgstr ""
+
+#: ../comments.php:65
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:65
+msgid "to post a comment."
+msgstr ""
+
+#: ../functions.php:21
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:22
+msgctxt "Ubuntu font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:23
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:24
+msgctxt "Roboto+Mono font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:322
+msgid "Header Menu"
+msgstr ""
+
+#: ../functions.php:338
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:340
+msgid "These widgets for the Blog page."
+msgstr ""
+
+#: ../functions.php:348
+msgid "Default Page Sidebar"
+msgstr ""
+
+#: ../functions.php:350
+msgid "These widgets for the Default Page pages."
+msgstr ""
+
+#: ../functions.php:360
+msgid "Archive Sidebar"
+msgstr ""
+
+#: ../functions.php:362
+msgid "These widgets for the Archive pages."
+msgstr ""
+
+#: ../functions.php:371
+msgid "Search Sidebar"
+msgstr ""
+
+#: ../functions.php:373
+msgid "These widgets for the Search pages."
+msgstr ""
+
+#: ../functions.php:382
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: ../functions.php:384
+msgid "These widgets for the Blog single page."
+msgstr ""
+
+#: ../functions.php:393
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../functions.php:395
+msgid "These widgets for the footer top section."
+msgstr ""
+
+#: ../functions.php:417
+msgid "Custom Post Type UI"
+msgstr ""
+
+#: ../functions.php:421
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../functions.php:425
+msgid "Theme Options Panel"
+msgstr ""
+
+#: ../functions.php:430
+msgid "Safe SVG"
+msgstr ""
+
+#: ../functions.php:435
+msgid "Elementor"
+msgstr ""
+
+#: ../functions.php:440
+msgid "Advanced Custom Fields - ACF"
+msgstr ""
+
+#: ../functions.php:445
+msgid "WooCommerce"
+msgstr ""
+
+#: ../functions.php:449
+msgid "Envato Auto Update Theme"
+msgstr ""
+
+#: ../functions.php:455
+msgid "The Grid"
+msgstr ""
+
+#: ../functions.php:461 ../inc/core/merlin/class-merlin.php:2239
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../functions.php:467
+msgid "Wavo Elementor Addons"
+msgstr ""
+
+#: ../functions.php:515
+msgid "Main Demo - Included 19 Homepages"
+msgstr ""
+
+#: ../functions.php:537
+msgid "Demo 2 - Architecture"
+msgstr ""
+
+#: ../functions.php:559
+msgid "Demo 3 - Creative Agency"
+msgstr ""
+
+#: ../functions.php:581
+msgid "Demo 4 - Marketing Agency"
+msgstr ""
+
+#: ../functions.php:603
+msgid "Demo 5 - Locomotive Scroll Resume"
+msgstr ""
+
+#: ../functions.php:625
+msgid "Demo 6 - Business"
+msgstr ""
+
+#: ../functions.php:647
+msgid "Demo 7 - Business - Marketing"
+msgstr ""
+
+#: ../functions.php:669
+msgid "Demo 8 - Cosmetic Product Showcase"
+msgstr ""
+
+#: ../functions.php:691
+msgid "Demo 9 - Interactive Link Slider - Personal CV"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:335
+#: ../inc/core/demo-wizard-config.php:81
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:393
+#: ../inc/core/class-tgm-plugin-activation.php:960
+#: ../inc/core/class-tgm-plugin-activation.php:2666
+#: ../inc/core/class-tgm-plugin-activation.php:3713
+#: ../inc/core/merlin/class-merlin.php:1677
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:394
+#: ../inc/core/class-tgm-plugin-activation.php:3292
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:395
+#: ../inc/core/class-tgm-plugin-activation.php:3085
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:402
+#: ../inc/template-functions.php:24
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:472
+#: ../inc/core/class-tgm-plugin-activation.php:479
+#, php-format
+msgid ""
+"<a target=\"_blank\" style=\"color: #ff0000;\" href=\"%s\">Register theme to "
+"unlock</a>"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:639
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:640
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:758
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:1067
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:1067
+#: ../inc/core/class-tgm-plugin-activation.php:1070
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:1070
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2115
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2406
+#: ../inc/core/merlin/class-merlin.php:1282
+msgid "Required"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2409
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2425
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2428
+msgid "External Source"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2431
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2448
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2452
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2454
+msgid "Active"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2460
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2463
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2466
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2475
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2525
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2529
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2533
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2615
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2623
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2631
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2643
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2666
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2680
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2681
+msgid "Source"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2682
+msgid "Type"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2686
+msgid "Version"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2687
+msgid "Status"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2736
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2741
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2747
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2817
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2850
+#: ../inc/core/demo-wizard-config.php:49 ../inc/core/demo-wizard-config.php:50
+#: ../inc/core/demo-wizard-config.php:51
+msgid "Install"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2856
+msgid "Update"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2859
+#: ../inc/core/demo-wizard-config.php:53
+msgid "Activate"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2890
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2892
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2933
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:2935
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3041
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3067
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3291
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3631
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3634
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3636
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3640
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3642
+#: ../inc/core/class-tgm-plugin-activation.php:3650
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3643
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3645
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3648
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3651
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/core/class-tgm-plugin-activation.php:3653
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:38
+msgid "Theme Setup"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:41
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:42
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:43
+msgid "Disable this wizard"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:45
+msgid "Skip"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:46
+msgid "Next"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:47
+msgid "Start"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:48
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:52
+msgid "Import"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:54
+msgid "Later"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:57
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:59
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:61
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:62
+msgid "License key"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:63
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:64
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:65
+msgid "Need help?"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:68
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:69
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:70
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:71
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:73
+msgid "Install Child Theme"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:74
+msgid "You're good to go!"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:75
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:76
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:77
+msgid "Learn about child themes"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:78
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:79
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:82
+msgid "You're up to speed!"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:83
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:84
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press \"Next"
+"\" to continue the setup wizard."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:85 ../inc/core/demo-wizard-config.php:89
+msgid "Advanced"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:87
+msgid "Import Content"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:88
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:91
+msgid "All done. Have fun!"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:94
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:95
+msgid "Extras"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:96
+msgid "View your website"
+msgstr ""
+
+#: ../inc/core/demo-wizard-config.php:97
+msgid "Start Customizing"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:13
+msgid "NineTheme"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:17
+msgid "About "
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:20
+msgid "Theme Activation"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:71
+#: ../inc/core/theme-options/options.php:137
+#: ../inc/core/theme-options/options.php:3411
+msgid "Support"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:73 ../inc/core/merlin/admin-menu.php:74
+msgid "Help Center"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:76
+msgid ""
+"If you need support with using the theme,\n"
+"                        please visit the links below. If you are having "
+"trouble with the installation, please read the documentation."
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:81
+msgid "Theme Documentations"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:82
+msgid "Theme Elementor Documentation"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:83
+msgid "Theme WPBakery Documentation"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:87
+msgid "Plugin Documentations"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:88
+msgid "Elementor General Documentation"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:89
+msgid "WPBakery General Documentation"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:90
+msgid "CPTUI General Documentation"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:91
+msgid "Contact Form 7 General Documentation"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:95
+msgid "Follow Us"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:148
+msgid "Activate License"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:149
+msgid ""
+"Envato allows 1 license for 1 project located on 1 domain. It means that 1 "
+"purchase key can be used only for 1 site. Each additional site will require "
+"an additional purchase key."
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:150
+msgid "Please click to connect your license and enter your purchase code."
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:154
+msgid "CONNECT"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:162
+msgid "Disconnect License"
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:163
+msgid ""
+"If you want to use this template on another server, click the disconnect "
+"button here. When you disconnect, this creates a registration and a list of "
+"domains for which you used the purchase code will be saved. In case of "
+"illegal use of licenses, there is a risk that your Envato account will be "
+"deleted or your purchase code will be canceled. Do not share your license "
+"code with anyone other than our support team."
+msgstr ""
+
+#: ../inc/core/merlin/admin-menu.php:167
+msgid "Disconnect"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:449
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:595
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:600
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:709
+msgid "Welcome"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:716
+msgid "License"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:721
+msgid "Child"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:727
+msgid "Plugins"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:734
+#: ../inc/core/merlin/class-merlin.php:2213
+msgid "Content"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:739
+msgid "Ready"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:899
+msgid "PHP Version"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:902
+#: ../inc/core/merlin/class-merlin.php:920
+#: ../inc/core/merlin/class-merlin.php:930
+#: ../inc/core/merlin/class-merlin.php:940
+#: ../inc/core/merlin/class-merlin.php:950
+msgid "Recommended: "
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:917
+msgid "max_input_vars"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:927
+msgid "memory_limit"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:937
+msgid "max_execution_time"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:947
+msgid "Max Upload Size"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:962
+msgid ""
+"Payment gateways can use cURL to communicate with remote servers to "
+"authorize payments, other plugins may also use it when communicating with "
+"remote services."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1001
+msgid ""
+"Your server does not match the recommended settings. You might not be able "
+"to import the full demos."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1002
+#, php-format
+msgid "%sAdjust your settings%s, or proceed with caution :("
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1004
+#, php-format
+msgid ""
+"Your server does not match the recommended settings. %sImport the BASIC Demo"
+"%s only, or adjust your settings."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1196
+#: ../inc/core/merlin/class-merlin.php:1334
+#: ../inc/core/merlin/class-merlin.php:1448
+msgid "Please verify the purchase code first."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1199
+#: ../inc/core/merlin/class-merlin.php:1337
+#: ../inc/core/merlin/class-merlin.php:1451
+msgid "Back Admin Page"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1283
+msgid "req"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1386
+msgid "Select Demo"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1393
+msgid "See All Demos"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1396
+msgid "See "
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1643
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1652
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1678
+msgid "Activated"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1679
+msgid "The activation is done!"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1745
+#: ../inc/core/merlin/class-merlin.php:1786
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1758
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1764
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1768
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1773
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1778
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1782
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1963
+msgid "Activating"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1979
+msgid "Updating"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:1995
+#: ../inc/core/merlin/class-merlin.php:2004
+#: ../inc/core/merlin/class-merlin.php:2216
+#: ../inc/core/merlin/class-merlin.php:2229
+#: ../inc/core/merlin/class-merlin.php:2242
+#: ../inc/core/merlin/class-merlin.php:2256
+#: ../inc/core/merlin/class-merlin.php:2269
+#: ../inc/core/merlin/class-merlin.php:2282
+#: ../inc/core/merlin/class-merlin.php:2295
+#: ../inc/core/merlin/class-merlin.php:2308
+#: ../inc/core/merlin/class-merlin.php:2353
+msgid "Installing"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2012
+#: ../inc/core/merlin/class-merlin.php:2217
+#: ../inc/core/merlin/class-merlin.php:2230
+#: ../inc/core/merlin/class-merlin.php:2243
+#: ../inc/core/merlin/class-merlin.php:2257
+#: ../inc/core/merlin/class-merlin.php:2270
+#: ../inc/core/merlin/class-merlin.php:2283
+#: ../inc/core/merlin/class-merlin.php:2296
+#: ../inc/core/merlin/class-merlin.php:2309
+msgid "Success"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2039
+msgid "Invalid content!"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2090
+msgid "Error"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2108
+msgid "Invalid data!"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2214
+msgid "Demo content data."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2215
+#: ../inc/core/merlin/class-merlin.php:2228
+#: ../inc/core/merlin/class-merlin.php:2241
+#: ../inc/core/merlin/class-merlin.php:2255
+#: ../inc/core/merlin/class-merlin.php:2268
+#: ../inc/core/merlin/class-merlin.php:2281
+#: ../inc/core/merlin/class-merlin.php:2294
+#: ../inc/core/merlin/class-merlin.php:2307
+msgid "Pending"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2226
+msgid "Widgets"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2227
+msgid "Sample widgets data."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2240
+msgid "Sample Revolution sliders data."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2253
+msgid "Options"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2254
+msgid "Sample theme options data."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2266
+msgid "Redux Options"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2267
+msgid "Redux framework options."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2279
+msgid "Option Tree Options"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2280
+msgid "Option Tree framework options."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2292
+msgid "CPTUI Options"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2293
+msgid "CPTUI framework options."
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2305
+msgid "After import setup"
+msgstr ""
+
+#: ../inc/core/merlin/class-merlin.php:2306
+msgid "After import setup."
+msgstr ""
+
+#: ../inc/core/merlin/importer/WXRImporter.php:116
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: ../inc/core/merlin/importer/WXRImporter.php:403
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../inc/core/merlin/importer/WXRImporter.php:536
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: ../inc/core/merlin/importer/WXRImporter.php:926
+msgid "Invalid file type"
+msgstr ""
+
+#: ../inc/core/merlin/importer/WXRImporter.php:1700
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: ../inc/core/merlin/importer/WXRImporter.php:1719
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../inc/core/merlin/importer/WXRImporter.php:1725
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-customizer-importer.php:55
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-customizer-importer.php:68
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-customizer-importer.php:78
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-customizer-importer.php:84
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-downloader.php:63
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-downloader.php:81
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:69
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:80
+msgid "Error: Widget import file does not have any content in it."
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:102
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:141
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:162
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:195
+msgid "Widget already exists"
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:253
+msgid "Imported"
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:257
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:263
+msgid "No Title"
+msgstr ""
+
+#: ../inc/core/merlin/includes/class-merlin-widget-importer.php:325
+msgid "No results for widget import!"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:12
+msgid "Wavo Default Page Customize Options"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:16
+msgid "Hide Page Header?"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:27
+msgid "Use this option, if you want to hide the page header."
+msgstr ""
+
+#: ../inc/core/metaboxes.php:35
+msgid "Page Header Type"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:38
+msgid "Use this option, if you want to show different menu style on this page"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:46
+msgid "Solid"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:47
+msgid "Transparent"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:70
+msgid "Page Header Menu"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:90
+msgid "Use this option, if you want to show different menu on this page"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:100
+msgid "Hide Page Header Topbar?"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:119
+msgid "Use this option, if you want to hide the page header topbar."
+msgstr ""
+
+#: ../inc/core/metaboxes.php:127
+msgid "Hide Page Footer?"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:138 ../inc/core/metaboxes.php:165
+msgid ""
+"Select this option if you want to hide the page main footer for this page."
+msgstr ""
+
+#: ../inc/core/metaboxes.php:146
+msgid "Hide Page Footer Copyright?"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:173
+msgid "Hide Page Footer Widget Area?"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:192
+msgid ""
+"Select this option if you want to hide the page footer widget area for this "
+"page."
+msgstr ""
+
+#: ../inc/core/metaboxes.php:200
+msgid "Page Layout"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:212
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:213
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:214 ../woocommerce/init.php:291
+msgid "Full Width"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:243
+msgid "Page Hero Options"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:247
+msgid "Hide Page Hero?"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:258
+msgid "Use this option, if you want to hide the page hero section."
+msgstr ""
+
+#: ../inc/core/metaboxes.php:266
+msgid "Hero Customize"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:289
+msgid "Page Hero Background"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:304
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:328
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:345
+msgid "Page Hero Text Customize"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:360
+msgid "Alternative Page Site Title"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:372
+msgid "if you want to use a different subtitle for the page you can type here"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:379
+msgid "Alternative Page Title"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:391
+msgid "if you want to use a different title for the page you can type here"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:398
+msgid "Page Title Color"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:413
+msgid "Page Site Title Color"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:428
+msgid "Page Breadcrumbs Display"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:440
+msgid "Show"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:441
+msgid "Hide"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:475
+msgid "Video or Audio Embed"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:479
+msgid "Add your video or audio url here"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:523
+msgid "Link Extra"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:527
+msgid "Link Text"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:539
+msgid "Add your link text here"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:546
+msgid "Link URL"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:558
+msgid "Add your URL here"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:583
+msgid "Quote Content"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:587
+msgid "Quote Text"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:599
+msgid "Add your qoute text here"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:606
+msgid "Quote Author"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:618
+msgid "Add quote author name here"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:646
+msgid "Cube Portfolio Widget Options"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:650
+msgid "Link Type"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:662
+msgid "Lightbox"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:663
+msgid "Post Permalink"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:664
+msgid "Ajax Popup"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:665 ../inc/core/metaboxes.php:701
+msgid "Custom URL"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:677
+msgid "Lightbox Video URL"
+msgstr ""
+
+#: ../inc/core/metaboxes.php:721
+msgid "Add your custom link here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:35
+#: ../inc/core/theme-options/options.php:36
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:132
+msgid "wavo Documentation"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:142
+msgid "NineTheme Portfolio"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:146
+msgid ""
+"If you need help please read docs and open a ticket on our support center."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:159
+msgid "Main Setting"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:161
+#: ../inc/core/theme-options/options.php:720
+#: ../inc/core/theme-options/options.php:982
+#: ../inc/core/theme-options/options.php:2168
+#: ../inc/core/theme-options/options.php:2223
+#: ../inc/core/theme-options/options.php:3067
+#: ../inc/core/theme-options/options.php:3145
+#: ../inc/core/theme-options/options.php:3296
+msgid "These are main settings for general theme!"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:167
+msgid "Theme Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:174
+msgid "Theme Skin Type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:179
+msgid "Dark"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:180
+msgid "Light"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:185
+msgid "Theme Main Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:186
+msgid "Add theme main color."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:192
+msgid "Theme Dark Button Main Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:193
+msgid "Add theme main color for the dark style button."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:199
+msgid "Theme Light Button Main Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:200
+msgid "Add theme main color for the light style button."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:209
+#: ../inc/core/theme-options/options.php:216
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:217
+msgid "If enabled, adds breadcrumbs navigation to bottom of page title."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:223
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:242
+msgid "Breadcrumbs Current Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:250
+msgid "Breadcrumbs Icon Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:261
+#: ../inc/core/theme-options/options.php:267
+msgid "Preloader"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:268
+msgid "If enabled, adds preloader."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:274
+msgid "Preloader Type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:275
+msgid "Select your preloader type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:280
+#: ../inc/core/theme-options/options.php:740 ../woocommerce/init.php:388
+msgid "Default"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:281
+#: ../inc/core/theme-options/options.php:365
+msgid "Type 1"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:282
+#: ../inc/core/theme-options/options.php:366
+msgid "Type 2"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:283
+#: ../inc/core/theme-options/options.php:367
+msgid "Type 3"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:284
+msgid "Type 4"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:285
+msgid "Type 5"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:286
+msgid "Type 6"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:287
+msgid "Type 7"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:288
+msgid "Type 8"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:289
+msgid "Type 9"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:290
+msgid "Type 10"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:291
+msgid "Type 11"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:292
+msgid "Type 12"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:293
+msgid "Custom"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:298
+msgid "Custom Preloader Content"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:299
+msgid "Add your custom HTML content here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:309
+msgid "Preloader Text"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:310
+msgid "Add preloader text here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:320
+msgid "Preloader Text Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:321
+msgid "Add preloader text color."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:332
+msgid "Preloader Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:333
+msgid "Add preloader background color."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:342
+msgid "Preloader Spin Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:343
+msgid "Add preloader spin color."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:352
+msgid "Cursor"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:358
+msgid "Theme Cursor Type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:359
+msgid "Select your cursor type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:364
+msgid "None"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:373
+msgid "Cursor Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:400
+msgid "Cursor Width"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:416
+msgid "Cursor Border Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:428
+msgid "Hide Cursor Arrow"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:429
+msgid "Hide or show arrow"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:436
+msgid "Cursor Border Width"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:454
+msgid "Typograhy General"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:460
+msgid "Use Elementor Style Kit"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:461
+msgid ""
+"This option applies styles created with Elementor to pages not created with "
+"Elementor."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:467
+msgid "H1 Headings"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:468
+msgid "Choose Size and Style for h1"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:487
+msgid "H2 Headings"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:488
+msgid "Choose Size and Style for h2"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:507
+msgid "H3 Headings"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:508
+msgid "Choose Size and Style for h3"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:527
+msgid "H4 Headings"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:528
+msgid "Choose Size and Style for h4"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:547
+msgid "H5 Headings"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:548
+msgid "Choose Size and Style for h5"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:567
+msgid "H6 Headings"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:568
+msgid "Choose Size and Style for h6"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:591
+msgid "Body Font Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:594
+msgid "Body"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:595
+msgid "Choose Size and Style for Body"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:613
+msgid "Paragraph"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:614
+msgid "Choose Size and Style for paragraph"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:632
+msgid "Make paragraph settings priority"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:633
+msgid ""
+"Use this option if you want these settings to take priority for the paragraph"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:642
+msgid "Back-to-top Button"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:648
+msgid "Back-to-top"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:649
+#: ../inc/core/theme-options/options.php:727
+msgid "Switch On-off"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:650
+msgid "If enabled, adds back to top."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:656
+msgid "Bottom Offset"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:657
+msgid "Set custom bottom offset for the back-to-top button"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:676
+msgid "Back-to-top Progress Wrap Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:702
+msgid "Back-to-top Progress Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:709
+msgid "Back-to-top Arrow Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:719
+#: ../inc/core/theme-options/options.php:726
+msgid "Pagination"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:728
+msgid "If enabled, adds pagination."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:734
+msgid "Pagination Type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:735
+msgid "Select type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:741
+msgid "Outline"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:747
+msgid "Pagination size"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:748
+msgid "Select size."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:753
+msgid "small"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:754
+msgid "medium"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:755
+msgid "large"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:761
+msgid "Pagination group"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:762
+msgid "Select group."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:767
+msgid "Yes"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:768
+msgid "No"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:774
+msgid "Pagination corner"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:775
+msgid "Select corner type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:780
+msgid "square"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:781
+msgid "rounded"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:782
+msgid "circle"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:788
+msgid "Pagination align"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:789
+msgid "Select align."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:794
+#: ../inc/core/theme-options/options.php:3251
+#: ../inc/core/theme-options/options.php:3270 ../woocommerce/init.php:107
+#: ../woocommerce/init.php:863
+msgid "left"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:795
+#: ../inc/core/theme-options/options.php:3253
+#: ../inc/core/theme-options/options.php:3272 ../woocommerce/init.php:105
+#: ../woocommerce/init.php:861
+msgid "right"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:796
+#: ../inc/core/theme-options/options.php:3252
+#: ../inc/core/theme-options/options.php:3271 ../woocommerce/init.php:106
+#: ../woocommerce/init.php:862
+msgid "center"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:802
+msgid "Pagination default/outline color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:808
+msgid "Active and Hover pagination color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:814
+msgid "Pagination number color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:820
+msgid "Active and Hover pagination number color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:828
+#: ../inc/core/theme-options/options.php:835
+msgid "Split Text Animation"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:836
+msgid ""
+"This option is general.Use this option if you want to turn off text split "
+"animations on pages."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:845
+msgid "Theme Form"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:852
+msgid "Header Search Form Input Placeholder"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:858
+msgid "Sidebar Search Form Input Placeholder"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:864
+msgid "Password Form Input Placeholder"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:873
+#: ../inc/core/theme-options/options.php:880
+msgid "Smooth Scrollbar"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:886
+msgid "Elementor Canvas Page Smooth Scrollbar"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:893
+msgid "Scrollbar Thumb Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:902
+msgid "Scrollbar Thumb Color ( Hover )"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:911
+msgid "Scrollbar Track Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:920
+msgid "Scrollbar Width"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:935
+msgid "Animation Time"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:946
+msgid "Step Size"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:956
+msgid "Acceleration Delta"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:966
+msgid "Acceleration Maximum"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:981
+msgid "Logo"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:988
+msgid "Logo Switch"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:989
+msgid "You can select logo on or off."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:995
+msgid "Logo Type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:996
+msgid "Select your logo type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1001
+msgid "Image Logo"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1002
+msgid "Site Name"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1003
+msgid "Custom HTML"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1009
+msgid "Custom text for logo"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1010
+msgid "Text entered here will be used as logo"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1023
+msgid "Sitename or Custom Text Logo Font"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1024
+msgid "Choose size and style your sitename, if you don't use an image logo."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1053
+msgid "Hover Text Logo Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1054
+msgid "Set your own hover color for the text logo."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1064
+msgid "Logo image"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1065
+msgid "Upload your Logo. If left blank theme will use site default logo."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1077
+msgid "Logo Dimensions"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1078
+#: ../inc/core/theme-options/options.php:1129
+msgid "Set the logo width and height of the image."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1089
+msgid "Sticky Logo"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1090
+msgid "if you want to use a different logo on scroll, you can use this option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1102
+msgid "Sticky Logo Dimensions"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1103
+msgid "Set the sticky logo width and height of the image."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1115
+msgid "Mobile Logo ( for Mobile Device )"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1116
+msgid ""
+"if you want to use a different logo on mobile devices, you can use this "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1128
+msgid "Mobile Logo Dimensions"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1145
+msgid "Header"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1151 ../woocommerce/init.php:754
+msgid "General"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1157
+msgid "Header Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1158
+msgid "You can enable or disable the site navigation."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1166
+msgid "Header Template"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1167
+#: ../inc/core/theme-options/options.php:1215 ../woocommerce/init.php:74
+#: ../woocommerce/init.php:830
+msgid "Select your header template."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1172
+msgid "Deafult Site Header"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1173
+#: ../inc/core/theme-options/options.php:1180
+#: ../inc/core/theme-options/options.php:2601
+#: ../inc/core/theme-options/options.php:2862
+#: ../inc/core/theme-options/options.php:2867
+#: ../inc/core/theme-options/options.php:3166
+#: ../inc/core/theme-options/options.php:3172 ../woocommerce/init.php:80
+#: ../woocommerce/init.php:86 ../woocommerce/init.php:366
+#: ../woocommerce/init.php:836 ../woocommerce/init.php:842
+msgid "Elementor Templates"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1174
+msgid "Sidebar Menu"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1181
+#: ../inc/core/theme-options/options.php:2602
+#: ../inc/core/theme-options/options.php:2868
+#: ../inc/core/theme-options/options.php:3173 ../woocommerce/init.php:87
+#: ../woocommerce/init.php:843
+msgid "Select a template from elementor templates."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1192
+msgid "Header Height"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1209
+msgid "Menu Toggle Button Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1214
+msgid "Menu Button Type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1220
+#: ../inc/core/theme-options/options.php:2861
+msgid "Deafult"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1221
+msgid "Slider"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1222
+msgid "Squeeze"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1223
+msgid "Arrow"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1224
+msgid "Arrow Alt"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1225
+msgid "Arrow Turn"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1226
+msgid "Spin"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1227
+msgid "Elastic"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1228
+msgid "Emphatic"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1229
+msgid "Collapse"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1230
+msgid "Vortex"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1231
+msgid "Stand"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1232
+msgid "Spring"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1233
+msgid "Minus"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1234
+msgid "3DX"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1235
+msgid "3DY"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1236
+msgid "3DXY"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1237
+msgid "Boring"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1246
+#: ../inc/core/theme-options/options.php:1284
+msgid "Menu Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1256
+msgid "Close Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1266
+msgid "Open and Close Title Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1276
+msgid "Toggle Bar Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1294
+msgid "Menu Title Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1309
+msgid "Sidebar Menu Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1317
+msgid "Sidebar Menu Social Icons"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1329
+msgid "Mobile Toggle Bar Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1340
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1367
+msgid "Sidebar Border Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1378
+msgid "Menu Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1405
+#: ../inc/core/theme-options/options.php:1931
+msgid "Mobile Header Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1432
+#: ../inc/core/theme-options/options.php:1942
+msgid "Mobile Sticky Header Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1459
+msgid "Search Overlay Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1486
+msgid "Social Icon Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1496
+msgid "Social Icon Color ( Hover )"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1506
+msgid "Search Icon Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1517
+msgid "Search Overlay Title Font and Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1539
+msgid "Header and Menu Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1547
+msgid "Header Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1558
+msgid "Overlay Menu Background Image"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1573
+msgid "Header Overlay Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1584
+msgid "Menu Item Font and Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1585
+#: ../inc/core/theme-options/options.php:1605
+#: ../inc/core/theme-options/options.php:1711
+#: ../inc/core/theme-options/options.php:1834
+msgid "Choose Size and Style for primary menu"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1596
+msgid "Menu Item Color ( Hover and Active )"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1597
+#: ../inc/core/theme-options/options.php:1630
+#: ../inc/core/theme-options/options.php:1687
+#: ../inc/core/theme-options/options.php:1699
+msgid "Set your own hover color for the navigation menu item."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1604
+#: ../inc/core/theme-options/options.php:1710
+#: ../inc/core/theme-options/options.php:1833
+msgid "Go Back Font and Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1619
+msgid "Increment Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1620
+msgid "You can enable or disable the site navigation menu item increment."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1629
+msgid "Increment Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1648
+msgid "Header Contact Area Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1656
+msgid "Header Contact Area Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1657
+msgid "You can enable or disable the site navigation contact area."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1669
+msgid "Header Contact Area"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1686
+msgid "Contact Label Text Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1698
+msgid "Contact Detail Text Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1734
+msgid "Header Search Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1739
+#: ../inc/core/theme-options/options.php:3045
+msgid "Search Form Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1740
+msgid "You can enable or disable the site navigation search form."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1749
+msgid "Form Input Border Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1761
+msgid "Form Submit Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1773
+msgid "Form Submit Background Color 2"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1793
+msgid "Header Copyright Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1798
+msgid "Header Copyright Text Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1799
+msgid "You can enable or disable the site navigation copyright text."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1808
+msgid "Header Copyright Text"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1822
+msgid "Header Copyright Text Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1823
+msgid "Set your own color for the navigation menu item."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1857
+msgid "Sticky Header Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1865
+msgid "Sticky Header Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1877
+msgid "Sticky Header Height"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1888
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1899
+msgid "Sticky Header Direction?"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1900
+msgid "Select your sticky headers visibility as you scroll the page."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1905
+msgid "Deafult( from Top )"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1906
+msgid "Bottom (from Bottom)"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1923
+msgid "Mobile Header Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1963
+msgid "Header Extra Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1971
+msgid "Theme Overlay Menu Transition"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1978
+msgid "Theme Overlay Menu Item Transition"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:1985
+msgid "Theme Overlay Submenu Transition Delay"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2000
+msgid "Header Lang Switcher Options"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2008
+msgid "Header Lang Switcher Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2009
+msgid "You can enable or disable the site header language area."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2017
+msgid "Lang Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2018
+#: ../inc/core/theme-options/options.php:2025
+msgid "Set your own color for the header language item."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2024
+msgid "Sub Lang Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2041
+#: ../inc/core/theme-options/options.php:3286
+#: ../inc/core/theme-options/options.php:3386
+msgid "Success!"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2044
+#, php-format
+msgid "%s is disabled on the site. Please activate to view options."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2054
+msgid "Sidebars"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2061
+msgid "Sidebars Layout"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2062
+msgid "You can change the below default layout type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2068
+msgid "Sidebar type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2069
+msgid "Select sidebar type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2074
+#: ../inc/core/theme-options/options.php:2457
+#: ../inc/core/theme-options/options.php:2470
+#: ../inc/core/theme-options/options.php:2483
+#: ../inc/core/theme-options/options.php:2731
+msgid "Select type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2075
+#: ../inc/core/theme-options/options.php:2458
+msgid "default"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2076
+msgid "bordered"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2081
+msgid "Blog Page Layout"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2082
+msgid "Choose the blog index page layout."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2102 ../woocommerce/init.php:760
+msgid "Single Page Layout"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2103
+msgid "Choose the single post page layout."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2123
+msgid "Search Page Layout"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2124
+msgid "Choose the search page layout."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2144
+msgid "Archive Page Layout"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2145
+msgid "Choose the archive page layout."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2167
+msgid "Sidebar Customize"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2174
+msgid "Sidebar Background"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2183
+msgid "Sidebar Border"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2188
+msgid "Sidebar Padding"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2204
+msgid "Sidebar Margin"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2222
+msgid "Widget Customize"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2229
+msgid "Sidebar Widgets Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2236
+msgid "Widgets Border"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2243
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2244
+#: ../inc/core/theme-options/options.php:2251
+#: ../inc/core/theme-options/options.php:2258
+msgid "Set your own colors for the widgets."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2250
+msgid "Widget Text Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2257
+msgid "Widget Link Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2264
+msgid "Widget Hover Link Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2265
+msgid "Set your own hover colors for the widgets."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2271
+msgid "Widget Padding"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2287
+msgid "Widget Margin"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2308
+msgid "Blog Page"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2314
+msgid "Blog Hero"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2315
+msgid "These are blog index page hero text settings!"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2321
+msgid "Blog Hero Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2322
+msgid ""
+"You can enable or disable the site blog index page hero section with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2330
+msgid "Blog Hero Background"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2342
+msgid "Blog Big Title Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2361
+msgid "Big Title Stroke Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2362
+msgid "Set your own colors for the big title."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2370
+msgid "Big Title Top Offset"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2371
+msgid "You can control blog big title top offset."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2389
+msgid "Blog Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2390
+msgid "Add your blog index page title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2397
+msgid "Blog Title Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2416
+msgid "Blog Site Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2417
+msgid "Add your blog index page site title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2424
+msgid "Blog Site Title Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2445
+msgid "Blog Content"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2451
+msgid "Blog page type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2452
+msgid "Select blog page layout type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2459
+msgid "grid"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2464
+msgid "Blog page container width type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2465
+msgid "Select blog page container width type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2471
+msgid "Default Boxed"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2472
+msgid "Fluid"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2477
+msgid "Blog page post column width"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2478
+msgid "Select a column number."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2484
+msgid "2 column"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2485
+msgid "3 column"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2491
+msgid "Blog Post Title Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2492
+msgid ""
+"You can enable or disable the site blog index page post title with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2500
+msgid "Blog Post Author Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2501
+msgid ""
+"You can enable or disable the site blog index page post author with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2509
+msgid "Blog Post Tags Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2510
+msgid ""
+"You can enable or disable the site blog index page post tags with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2518
+msgid "Blog Post Date Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2519
+msgid ""
+"You can enable or disable the site blog index page post date with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2527
+msgid "Blog Post Excerpt Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2528
+msgid ""
+"You can enable or disable the site blog index page post meta with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2536
+msgid "Post Excerpt Size (max word count)"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2537
+msgid "You can control blog post excerpt size with this option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2548
+msgid "Blog Post Button Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2549
+msgid ""
+"You can enable or disable the site blog index page post read more button "
+"wityh switch option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2557
+msgid "Blog Post Button Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2558
+msgid "Add your blog post read more button title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2561
+#: ../inc/template-parts/post-formats.php:332
+#: ../inc/template-parts/single-post-formats.php:724
+msgid "Read More"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2570
+msgid "Single Page"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2576 ../woocommerce/init.php:813
+msgid "Single Hero"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2577 ../woocommerce/init.php:814
+msgid "These are single page hero section settings!"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2583 ../woocommerce/init.php:820
+msgid "Single Hero display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2584 ../woocommerce/init.php:821
+msgid ""
+"You can enable or disable the site single page hero section with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2592
+msgid "Use Elementor Template For Single Hero?"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2593
+msgid ""
+"Please open this option, If you want to use elementor template instead of "
+"the default single hero section."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2613 ../woocommerce/init.php:872
+msgid "Single Hero Background"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2623 ../woocommerce/init.php:904
+msgid "Single Title Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2646
+msgid "Hero Post Meta Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2647
+#: ../inc/core/theme-options/options.php:2691
+msgid ""
+"You can enable or disable the site single page post meta tags with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2659
+msgid "Hero Post Meta Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2684 ../woocommerce/init.php:996
+msgid "Single Content"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2690
+msgid "Single Post Tags Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2699
+msgid "Single Post Authorbox"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2700
+msgid ""
+"You can enable or disable the site single page post authorbox with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2708
+msgid "Single Post Pagination Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2709
+msgid ""
+"You can enable or disable the site single page post next and prev pagination "
+"with switch option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2717
+msgid "Single Related Post Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2718
+msgid ""
+"You can enable or disable the site single page related post with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2726
+msgid "Single Related Post Style"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2732
+msgid "Stle 1"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2733
+msgid "Stle 2"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2739
+msgid "Single Related Post Count"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2740
+msgid "You can control related post count with this option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2751
+msgid "Related Section Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2752
+msgid "Add your single page related post section title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2755
+msgid "You May Also Like"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2763
+msgid "Archive Page"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2769
+msgid "Archive Hero"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2770
+msgid "These are archive page hero settings!"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2776
+msgid "Archive Hero display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2777
+msgid ""
+"You can enable or disable the site archive page hero section with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2785
+msgid "Archive Hero Background"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2792
+msgid "Custom Archive Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2793
+msgid "Add your custom archive page title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2796
+msgid "ARCHIVE"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2800
+msgid "Archive Title Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2819
+msgid "Archive Site Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2820
+msgid "Add your archive page site title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2827
+msgid "Archive Site Title Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2850
+msgid "404 Page"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2855
+msgid "404 Type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2856
+msgid "Select your 404 page type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2876
+msgid "404 Background"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2883
+msgid "404 Background Overlay Opacity"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2895
+#: ../inc/core/theme-options/options.php:2938
+msgid "Content Title Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2896
+#: ../inc/core/theme-options/options.php:2939
+msgid ""
+"You can enable or disable the site 404 page content title with switch option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2905
+msgid "Content Subtitle"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2906
+msgid "Add your 404 page content subtitle here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2916
+msgid "Subtitle Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2948
+msgid "Content Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2949
+msgid "Add your 404 page content title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2959
+msgid "Title Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2981
+msgid "Content Description Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2982
+msgid ""
+"You can enable or disable the site 404 page content description with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2991
+msgid "Content Description"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:2992
+msgid "Add your 404 page content description here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3002 ../woocommerce/init.php:252
+msgid "Description Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3024
+msgid "Button Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3025
+msgid ""
+"You can enable or disable the site 404 page content back to home button with "
+"switch option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3034
+msgid "Button Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3035
+msgid "Add your 404 page content back to home button title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3046
+msgid ""
+"You can enable or disable the site 404 page content search form with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3059
+msgid "Search Page"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3065
+msgid "Search Hero"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3072
+msgid "Search Hero display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3073
+msgid ""
+"You can enable or disable the site search page hero section with switch "
+"option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3081
+msgid "Search Hero Background"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3088
+msgid "Search Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3089
+msgid "Add your search page title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3092
+#: ../inc/template-parts/page-hero.php:27
+msgid "Search results for :"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3096
+msgid "Search Title Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3115
+msgid "Search Site Title"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3116
+msgid "Add your search page site title here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3123
+msgid "Search Site Title Typography"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3144
+msgid "Footer"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3150
+msgid "Footer Section Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3151
+msgid ""
+"You can enable or disable the site footer copyright and footer widget area "
+"on the site with switch option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3159
+msgid "Footer Type"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3160
+msgid "Select your footer type."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3165
+msgid "Deafult Site Footer"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3184
+msgid "Copyright Left Section Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3185
+#: ../inc/core/theme-options/options.php:3212
+msgid ""
+"You can enable or disable the site footer left section on the site with "
+"switch option."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3197
+msgid "Copyright Left Text"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3198
+#: ../inc/core/theme-options/options.php:3225
+msgid "HTML allowed (wp_kses)"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3199
+msgid "Enter your site copyright left text here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3203
+msgid "All rights reserved by"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3211
+msgid "Copyright Right Section Display"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3224
+msgid "Copyright Right Text"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3226
+msgid "Enter your site copyright right text here."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3234
+#: ../inc/template-parts/footer-parts.php:105
+msgid "Made with passion by"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3235
+#: ../inc/template-parts/footer-parts.php:106
+msgid "Ninetheme."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3244
+#: ../inc/core/theme-options/options.php:3263
+msgid "Text Alignment"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3250
+#: ../inc/core/theme-options/options.php:3269
+msgid "Select a option"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3289
+#: ../inc/core/theme-options/options.php:3389
+#, php-format
+msgid ""
+"%s section is disabled on the site.Please activate to view subsection "
+"options."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3295
+msgid "Footer Style"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3306
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3313
+msgid "Footer Padding"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3314
+msgid "You can set the top spacing of the site main footer."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3334
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3335
+msgid "Set your own colors for the footer."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3346
+msgid "Copyright Text Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3347
+#: ../inc/core/theme-options/options.php:3359
+#: ../inc/core/theme-options/options.php:3371
+msgid "Set your own colors for the copyright."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3358
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3370
+msgid "Link Color ( Hover )"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3396
+msgid "Import / Export"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3397
+msgid "Import and Export your Theme Options from text or URL."
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3420
+msgid "WE RECOMMEND YOU READ IT BEFORE YOU START"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3421
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3422
+msgid "READ MORE"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3431
+msgid "DO YOU NEED HELP?"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3432
+msgid "SUPPORT CENTER"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3433
+msgid "GET SUPPORT"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3442
+msgid "SEE MORE THE NINETHEME WORDPRESS THEMES"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3443
+msgid "NINETHEME PORTFOLIO"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3444
+msgid "SEE MORE"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3453
+msgid "WOULD YOU LIKE TO REWARD OUR EFFORT?"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3454
+msgid "PLEASE RATE US!"
+msgstr ""
+
+#: ../inc/core/theme-options/options.php:3455
+msgid "GET STARS"
+msgstr ""
+
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/extension_nt_multi_field.php:99
+msgid "The"
+msgstr ""
+
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/extension_nt_multi_field.php:99
+msgid "extension requires"
+msgstr ""
+
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/extension_nt_multi_field.php:99
+msgid "version"
+msgstr ""
+
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/extension_nt_multi_field.php:99
+msgid "or higher."
+msgstr ""
+
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/extension_nt_multi_field.php:99
+msgid "You are currently running"
+msgstr ""
+
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/extension_nt_multi_field.php:99
+msgid ""
+"This field will not render in your option panel, and features of this "
+"extension will not be available until the latest version of"
+msgstr ""
+
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/extension_nt_multi_field.php:99
+msgid "has been installed."
+msgstr ""
+
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/nt_multi_field/field_nt_multi_field.php:79
+msgid "Add More"
+msgstr ""
+
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/nt_multi_field/field_nt_multi_field.php:98
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/nt_multi_field/field_nt_multi_field.php:109
+#: ../inc/core/theme-options/redux-extensions/extensions/nt_multi_field/nt_multi_field/field_nt_multi_field.php:122
+msgid "Remove"
+msgstr ""
+
+#: ../inc/template-functions.php:22
+#, php-format
+msgid "If you need help about demodata installation, please read docs and %s"
+msgstr ""
+
+#: ../inc/template-functions.php:23
+msgid "Open a ticket"
+msgstr ""
+
+#: ../inc/template-functions.php:24
+msgid "or"
+msgstr ""
+
+#: ../inc/template-functions.php:192
+msgid "No template exist."
+msgstr ""
+
+#: ../inc/template-functions.php:385
+msgid "Search..."
+msgstr ""
+
+#: ../inc/template-functions.php:401
+msgid "Search for..."
+msgstr ""
+
+#: ../inc/template-functions.php:419
+msgid "Enter Password"
+msgstr ""
+
+#: ../inc/template-functions.php:541
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../inc/template-functions.php:543
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../inc/template-functions.php:545
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../inc/template-functions.php:794
+#, php-format
+msgid ""
+"Enter your Envato Purchase Code to receive wavo Theme and plugin updates  %s"
+msgstr ""
+
+#: ../inc/template-functions.php:795
+msgid "Enter Purchase Code"
+msgstr ""
+
+#: ../inc/template-parts/breadcrumbs.php:16
+msgid "Home"
+msgstr ""
+
+#: ../inc/template-parts/breadcrumbs.php:17
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: ../inc/template-parts/breadcrumbs.php:18
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: ../inc/template-parts/breadcrumbs.php:19
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: ../inc/template-parts/breadcrumbs.php:20
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: ../inc/template-parts/breadcrumbs.php:21
+msgid "Error 404"
+msgstr ""
+
+#: ../inc/template-parts/breadcrumbs.php:22
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/template-parts/breadcrumbs.php:23
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: ../inc/template-parts/comment-parts.php:19
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-parts/comment-parts.php:30
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-parts/comment-parts.php:32
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/template-parts/comment-parts.php:76
+msgid "Enter your name ..."
+msgstr ""
+
+#: ../inc/template-parts/comment-parts.php:78
+msgid "Enter your e-mail ..."
+msgstr ""
+
+#: ../inc/template-parts/comment-parts.php:80
+msgid "Enter your website ..."
+msgstr ""
+
+#: ../inc/template-parts/comment-parts.php:82
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: ../inc/template-parts/comment-parts.php:91
+msgid "Enter your comment ..."
+msgstr ""
+
+#: ../inc/template-parts/footer-parts.php:40
+msgid "No template exist for footer."
+msgstr ""
+
+#: ../inc/template-parts/footer-parts.php:42
+#: ../inc/template-parts/header-parts.php:111
+#: ../inc/template-parts/single-post-formats.php:185
+msgid "Add new section template."
+msgstr ""
+
+#: ../inc/template-parts/footer-parts.php:85
+msgid "All rights reserved"
+msgstr ""
+
+#: ../inc/template-parts/footer-parts.php:102
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: ../inc/template-parts/header-parts.php:109
+msgid "No template exist for header."
+msgstr ""
+
+#: ../inc/template-parts/header-parts.php:291
+msgid "SEARCH"
+msgstr ""
+
+#: ../inc/template-parts/menu.php:135 ../inc/template-parts/menu.php:256
+msgid "Add a menu"
+msgstr ""
+
+#: ../inc/template-parts/menu.php:148
+msgid "Go Back"
+msgstr ""
+
+#: ../inc/template-parts/page-hero.php:11
+msgid "Blog"
+msgstr ""
+
+#: ../inc/template-parts/page-hero.php:17
+msgid "404 - Not Found"
+msgstr ""
+
+#: ../inc/template-parts/paginations.php:60
+msgctxt "Previous post link"
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: ../inc/template-parts/paginations.php:62
+msgctxt "Next post link"
+msgid "NEXT POST"
+msgstr ""
+
+#: ../inc/template-parts/paginations.php:249
+msgid "Pages"
+msgstr ""
+
+#: ../inc/template-parts/paginations.php:255
+msgid "Next page"
+msgstr ""
+
+#: ../inc/template-parts/paginations.php:256
+msgid "Previous page"
+msgstr ""
+
+#: ../inc/template-parts/post-formats.php:106
+#: ../inc/template-parts/post-formats.php:176
+msgid "Sticky"
+msgstr ""
+
+#: ../inc/template-parts/post-formats.php:127
+#: ../inc/template-parts/post-formats.php:133
+#: ../inc/template-parts/post-formats.php:259
+#: ../inc/template-parts/post-formats.php:267
+msgid "By"
+msgstr ""
+
+#: ../inc/template-parts/single-post-formats.php:183
+msgid "No template exist for the hero."
+msgstr ""
+
+#: ../inc/template-parts/single-post-formats.php:595
+msgid "author"
+msgstr ""
+
+#: ../inc/template-parts/single-post-formats.php:669
+#: ../inc/template-parts/single-post-formats.php:674
+msgid "Awesome Works"
+msgstr ""
+
+#: ../inc/template-parts/single-post-formats.php:675
+msgid "Related Posts"
+msgstr ""
+
+#: ../inc/template-parts/small-parts.php:23
+msgid "Loading"
+msgstr ""
+
+#: ../inc/template-parts/small-parts.php:107
+msgid "Nothing"
+msgstr ""
+
+#: ../inc/template-parts/small-parts.php:107
+msgid "Found"
+msgstr ""
+
+#: ../inc/template-parts/small-parts.php:109
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../inc/template-parts/small-parts.php:111
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../inc/template-parts/small-parts.php:114
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../js/plugins/gsap/gsap.min.js:11
+msgid "Linear,Quad,Cubic,Quart,Quint,Strong"
+msgstr ""
+
+#: ../js/plugins/gsap/gsap.min.js:11
+msgid "onComplete,onUpdate,onStart,onRepeat,onReverseComplete,onInterrupt"
+msgstr ""
+
+#: ../js/plugins/gsap/gsap.min.js:11
+msgid "staggerTo,staggerFrom,staggerFromTo"
+msgstr ""
+
+#: ../js/plugins/gsap/gsap.min.js:11
+msgid ""
+"parent,duration,ease,delay,overwrite,runBackwards,startAt,yoyo,"
+"immediateRender,repeat,repeatDelay,data,paused,reversed,lazy,callbackScope,"
+"stringFilter,id,yoyoEase,stagger,inherit,repeatRefresh,keyframes,autoRevert"
+msgstr ""
+
+#: ../js/plugins/gsap/gsap.min.js:11
+msgid "to,from,fromTo,delayedCall,set,killTweensOf"
+msgstr ""
+
+#: ../js/plugins/gsap/gsap.min.js:11
+msgid "padding,margin,Width,Radius"
+msgstr ""
+
+#: ../js/plugins/gsap/gsap.min.js:11
+msgid ","
+msgstr ""
+
+#: ../js/plugins/gsap/gsap.min.js:11
+msgid ""
+"0:translateX,1:translateY,2:translateZ,8:rotate,8:rotationZ,8:rotateZ,9:"
+"rotateX,10:rotateY"
+msgstr ""
+
+#: ../js/plugins/gsap/gsap.min.js:11
+msgid ""
+"x,y,z,top,right,bottom,left,width,height,fontSize,padding,margin,perspective"
+msgstr ""
+
+#: ../js/plugins/smooth-scroll/smooth-scrollbar.js:1
+msgid "entries"
+msgstr ""
+
+#: ../js/plugins/smooth-scroll/smooth-scrollbar.js:1
+msgid "values"
+msgstr ""
+
+#: ../js/plugins/smooth-scroll/smooth-scrollbar.js:1
+msgid "keys"
+msgstr ""
+
+#: ../page.php:47
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../woocommerce/init.php:20
+msgid "Shop Page"
+msgstr ""
+
+#: ../woocommerce/init.php:26 ../woocommerce/init.php:32
+msgid "Shop Page Layout"
+msgstr ""
+
+#: ../woocommerce/init.php:33
+msgid "Choose the shop page layout."
+msgstr ""
+
+#: ../woocommerce/init.php:57
+msgid "Shop Page Hero"
+msgstr ""
+
+#: ../woocommerce/init.php:58
+msgid "These are shop page hero section settings"
+msgstr ""
+
+#: ../woocommerce/init.php:64
+msgid "Shop Hero display"
+msgstr ""
+
+#: ../woocommerce/init.php:65
+msgid ""
+"You can enable or disable the site shop page hero section with switch option."
+msgstr ""
+
+#: ../woocommerce/init.php:73
+msgid "Shop Hero Template"
+msgstr ""
+
+#: ../woocommerce/init.php:79 ../woocommerce/init.php:835
+msgid "Deafult Site Hero"
+msgstr ""
+
+#: ../woocommerce/init.php:98
+msgid "Shop Page Hero Alignment"
+msgstr ""
+
+#: ../woocommerce/init.php:99
+msgid "Select shop page hero text alignment."
+msgstr ""
+
+#: ../woocommerce/init.php:104 ../woocommerce/init.php:860
+msgid "Select alignment"
+msgstr ""
+
+#: ../woocommerce/init.php:116
+msgid "Shop Page Hero Background"
+msgstr ""
+
+#: ../woocommerce/init.php:126
+msgid "Hero Image Overlay Color"
+msgstr ""
+
+#: ../woocommerce/init.php:153
+msgid "Shop Page Hero Padding"
+msgstr ""
+
+#: ../woocommerce/init.php:154
+msgid "You can set the top spacing of the site shop page Hero Section"
+msgstr ""
+
+#: ../woocommerce/init.php:174
+msgid "Shop Page Title"
+msgstr ""
+
+#: ../woocommerce/init.php:175
+msgid "Add your shop page title here."
+msgstr ""
+
+#: ../woocommerce/init.php:185
+msgid "Shop Page Title Typography"
+msgstr ""
+
+#: ../woocommerce/init.php:208
+msgid "Shop Page Slogan"
+msgstr ""
+
+#: ../woocommerce/init.php:209
+msgid "Add your shop page slogan here."
+msgstr ""
+
+#: ../woocommerce/init.php:219
+msgid "Slogan Typography"
+msgstr ""
+
+#: ../woocommerce/init.php:241
+msgid "Shop Page Description"
+msgstr ""
+
+#: ../woocommerce/init.php:242
+msgid "Add your shop page description here."
+msgstr ""
+
+#: ../woocommerce/init.php:277
+msgid "Shop Page Content"
+msgstr ""
+
+#: ../woocommerce/init.php:283
+msgid "Shop Page Container Width"
+msgstr ""
+
+#: ../woocommerce/init.php:284
+msgid "Choose the shop page container width."
+msgstr ""
+
+#: ../woocommerce/init.php:289
+msgid "Default ( Container )"
+msgstr ""
+
+#: ../woocommerce/init.php:290
+msgid "Container Fluid"
+msgstr ""
+
+#: ../woocommerce/init.php:296
+msgid "Shop Page Content Padding"
+msgstr ""
+
+#: ../woocommerce/init.php:297
+msgid "You can set the top spacing of the site shop page content."
+msgstr ""
+
+#: ../woocommerce/init.php:313
+msgid "Shop Post Column"
+msgstr ""
+
+#: ../woocommerce/init.php:314
+msgid "You can control post column with this option."
+msgstr ""
+
+#: ../woocommerce/init.php:324
+msgid "Shop Post 992px Column ( Responsive: Desktop, Tablet )"
+msgstr ""
+
+#: ../woocommerce/init.php:325
+msgid "You can control post column on max-device width 992px with this option."
+msgstr ""
+
+#: ../woocommerce/init.php:335
+msgid "Shop Post 768px Column ( Responsive: Tablet, Phone )"
+msgstr ""
+
+#: ../woocommerce/init.php:336
+msgid "You can control post column on max-device-width 768px with this option."
+msgstr ""
+
+#: ../woocommerce/init.php:346
+msgid "Shop Post Count"
+msgstr ""
+
+#: ../woocommerce/init.php:347
+msgid "You can control show post count with this option."
+msgstr ""
+
+#: ../woocommerce/init.php:360
+msgid "Shop Page After Content"
+msgstr ""
+
+#: ../woocommerce/init.php:367
+msgid ""
+"Select a template from elementor templates, If you want to show any content "
+"after products."
+msgstr ""
+
+#: ../woocommerce/init.php:376
+msgid "Shop Page Post Style"
+msgstr ""
+
+#: ../woocommerce/init.php:382
+msgid "Post Color Style"
+msgstr ""
+
+#: ../woocommerce/init.php:383
+msgid "Select your color."
+msgstr ""
+
+#: ../woocommerce/init.php:389
+msgid "Blue"
+msgstr ""
+
+#: ../woocommerce/init.php:390
+msgid "Orange"
+msgstr ""
+
+#: ../woocommerce/init.php:391
+msgid "Indigo"
+msgstr ""
+
+#: ../woocommerce/init.php:392
+msgid "Sunglow"
+msgstr ""
+
+#: ../woocommerce/init.php:393
+msgid "Cerise Red"
+msgstr ""
+
+#: ../woocommerce/init.php:394
+msgid "Mantis"
+msgstr ""
+
+#: ../woocommerce/init.php:395 ../woocommerce/init.php:400
+msgid "Custom Color"
+msgstr ""
+
+#: ../woocommerce/init.php:401
+msgid "Change post color."
+msgstr ""
+
+#: ../woocommerce/init.php:409
+msgid "Post Background Color"
+msgstr ""
+
+#: ../woocommerce/init.php:410
+msgid "Change post background color."
+msgstr ""
+
+#: ../woocommerce/init.php:418
+msgid "Post Border"
+msgstr ""
+
+#: ../woocommerce/init.php:419
+msgid "Set your custom border styles for the posts."
+msgstr ""
+
+#: ../woocommerce/init.php:426
+msgid "Post Padding"
+msgstr ""
+
+#: ../woocommerce/init.php:427 ../woocommerce/init.php:440
+msgid "You can set the top spacing of the site shop page post."
+msgstr ""
+
+#: ../woocommerce/init.php:439
+msgid "Post Margin"
+msgstr ""
+
+#: ../woocommerce/init.php:453
+msgid "Shop Loop Post Title Typography"
+msgstr ""
+
+#: ../woocommerce/init.php:472
+msgid "Shop Loop Post Title Padding"
+msgstr ""
+
+#: ../woocommerce/init.php:473 ../woocommerce/init.php:490
+#: ../woocommerce/init.php:526 ../woocommerce/init.php:539
+msgid "You can set the top spacing of the site shop page post title."
+msgstr ""
+
+#: ../woocommerce/init.php:489
+msgid "Shop Loop Post Title Margin"
+msgstr ""
+
+#: ../woocommerce/init.php:506
+msgid "Shop Loop Post Price Typography"
+msgstr ""
+
+#: ../woocommerce/init.php:525
+msgid "Shop Loop Post Price Padding"
+msgstr ""
+
+#: ../woocommerce/init.php:538
+msgid "Shop Loop Post Price Margin"
+msgstr ""
+
+#: ../woocommerce/init.php:552
+msgid "Button Background ( Add to cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:553 ../woocommerce/init.php:562
+#: ../woocommerce/init.php:571 ../woocommerce/init.php:579
+#: ../woocommerce/init.php:587 ../woocommerce/init.php:594
+msgid "Change theme main color."
+msgstr ""
+
+#: ../woocommerce/init.php:561
+msgid "Hover Button Background ( Add to cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:570
+msgid "Button Title ( Add to cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:578
+msgid "Hover Button Title ( Add to cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:586
+msgid "Button Border ( Add to cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:593
+msgid "Hover Button Border ( Add to cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:601
+msgid "Button Background ( View cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:602
+msgid "Change button background color."
+msgstr ""
+
+#: ../woocommerce/init.php:610
+msgid "Hover Button Background ( View cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:611
+msgid "Change button hover background color."
+msgstr ""
+
+#: ../woocommerce/init.php:619
+msgid "Button Title ( View cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:620
+msgid "Change button title color."
+msgstr ""
+
+#: ../woocommerce/init.php:627
+msgid "Hover Button Title ( View cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:628
+msgid "Change button hover title color."
+msgstr ""
+
+#: ../woocommerce/init.php:635
+msgid "Button Border ( View cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:636 ../woocommerce/init.php:643
+msgid "Change hover button border style."
+msgstr ""
+
+#: ../woocommerce/init.php:642
+msgid "Hover Button Border ( View cart )"
+msgstr ""
+
+#: ../woocommerce/init.php:649
+msgid "Buttons Padding"
+msgstr ""
+
+#: ../woocommerce/init.php:650 ../woocommerce/init.php:663
+msgid "You can set the top spacing of the site shop page post buttons."
+msgstr ""
+
+#: ../woocommerce/init.php:662
+msgid "Buttons Margin"
+msgstr ""
+
+#: ../woocommerce/init.php:675
+msgid "Sale Label Background Color"
+msgstr ""
+
+#: ../woocommerce/init.php:676
+msgid "Change sale label background color."
+msgstr ""
+
+#: ../woocommerce/init.php:684
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../woocommerce/init.php:685
+msgid "Change sale label text color."
+msgstr ""
+
+#: ../woocommerce/init.php:692
+msgid "Pagination Background Color"
+msgstr ""
+
+#: ../woocommerce/init.php:693
+msgid "Change shop page pagination background color."
+msgstr ""
+
+#: ../woocommerce/init.php:701
+msgid "Active Pagination Background Color"
+msgstr ""
+
+#: ../woocommerce/init.php:702
+msgid "Change shop page pagination hover and active item background color."
+msgstr ""
+
+#: ../woocommerce/init.php:710
+msgid "Pagination Text Color"
+msgstr ""
+
+#: ../woocommerce/init.php:711
+msgid "Change shop page pagination text color."
+msgstr ""
+
+#: ../woocommerce/init.php:718
+msgid "Active Pagination Text Color"
+msgstr ""
+
+#: ../woocommerce/init.php:719
+msgid "Change shop page pagination hover and active item text color."
+msgstr ""
+
+#: ../woocommerce/init.php:726
+msgid "Pagination Border"
+msgstr ""
+
+#: ../woocommerce/init.php:727
+msgid "Change pagination item border style."
+msgstr ""
+
+#: ../woocommerce/init.php:733
+msgid "Active Pagination Border"
+msgstr ""
+
+#: ../woocommerce/init.php:734
+msgid "Change pagination active item border style."
+msgstr ""
+
+#: ../woocommerce/init.php:748
+msgid "Shop Single Page"
+msgstr ""
+
+#: ../woocommerce/init.php:761
+msgid "Choose the single page layout."
+msgstr ""
+
+#: ../woocommerce/init.php:781
+msgid "Single Related Title"
+msgstr ""
+
+#: ../woocommerce/init.php:782
+msgid "Add your single shop page related section title here."
+msgstr ""
+
+#: ../woocommerce/init.php:788
+msgid "Related Post Column"
+msgstr ""
+
+#: ../woocommerce/init.php:789
+msgid "You can control related post column with this option."
+msgstr ""
+
+#: ../woocommerce/init.php:799
+msgid "Related Post Count"
+msgstr ""
+
+#: ../woocommerce/init.php:800
+msgid "You can control show related post count with this option."
+msgstr ""
+
+#: ../woocommerce/init.php:829
+msgid "Single Hero Template"
+msgstr ""
+
+#: ../woocommerce/init.php:854
+msgid "Single Hero Alignment"
+msgstr ""
+
+#: ../woocommerce/init.php:855
+msgid "Select single page hero text alignment."
+msgstr ""
+
+#: ../woocommerce/init.php:882
+msgid "Single Hero Overlay Color"
+msgstr ""
+
+#: ../woocommerce/init.php:893
+msgid "Single Page Title"
+msgstr ""
+
+#: ../woocommerce/init.php:894
+msgid "Add your single shop page title here."
+msgstr ""
+
+#: ../woocommerce/init.php:927
+msgid "Single Slogan"
+msgstr ""
+
+#: ../woocommerce/init.php:928
+msgid "Add your single page slogan here."
+msgstr ""
+
+#: ../woocommerce/init.php:938
+msgid "Single Slogan Typography"
+msgstr ""
+
+#: ../woocommerce/init.php:960
+msgid "Single Description"
+msgstr ""
+
+#: ../woocommerce/init.php:961
+msgid "Add your single page description here."
+msgstr ""
+
+#: ../woocommerce/init.php:971
+msgid "Single Description Typography"
+msgstr ""
+
+#: ../woocommerce/init.php:1002
+msgid "Single Content Padding"
+msgstr ""
+
+#: ../woocommerce/init.php:1003
+msgid "You can set the top spacing of the site single page content."
+msgstr ""
+
+#: ../woocommerce/init.php:1236
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: ../woocommerce/init.php:1238
+msgid "These widgets for the Shop page."
+msgstr ""
+
+#: ../woocommerce/init.php:1246
+msgid "Shop Single Page Sidebar"
+msgstr ""
+
+#: ../woocommerce/init.php:1248
+msgid "These widgets for the Shop Single page."
+msgstr ""

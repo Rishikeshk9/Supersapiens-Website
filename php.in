@@ -1,0 +1,2 @@
+date.timezone = "Asia/Kolkata"
+max_input_vars = 3000

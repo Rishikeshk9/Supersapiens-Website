@@ -1,0 +1,679 @@
+﻿<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1.0" />
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, minimal-ui" />
+<meta name="theme-color" content="#056EB9" />
+<meta name="msapplication-navbutton-color" content="#056EB9" />
+<meta name="apple-mobile-web-app-status-bar-style" content="#056EB9" />
+<title>draft_or_post_title</title>
+<meta name="keywords"  content="#bbbkeybbb#" />
+<meta name="description"  content="#bbbdesbbb#" />
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='http://supersapiens.in//translate.google.com' />
+<link rel='dns-prefetch' href='http://supersapiens.in//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='http://supersapiens.in//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+
+
+<script type="b1fa903967008ca10782a0cd-text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/supersapiens.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://supersapiens.in/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css' href='https://supersapiens.in/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css' href='https://supersapiens.in/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://supersapiens.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-language-translator-css' href='https://supersapiens.in/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.8' type='text/css' media='' />
+<link rel='stylesheet' id='glt-toolbar-styles-css' href='https://supersapiens.in/wp-content/plugins/google-language-translator/css/toolbar.css?ver=6.0.8' type='text/css' media='' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://supersapiens.in/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.4.11' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://supersapiens.in/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://supersapiens.in/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.3.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://supersapiens.in/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.3.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wavo-child-style-css' href='https://supersapiens.in/wp-content/themes/wavo-child/style.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://supersapiens.in/wp-content/themes/wavo/js/plugins/bootstrap/bootstrap.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://supersapiens.in/wp-content/themes/wavo/css/plugins/animate.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css' href='https://supersapiens.in/wp-content/themes/wavo/css/plugins/ionicons.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-all-css' href='https://supersapiens.in/wp-content/themes/wavo/css/plugins/fontawesome-all.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='helper-css' href='https://supersapiens.in/wp-content/themes/wavo/css/plugins/helper.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hamburgers-css' href='https://supersapiens.in/wp-content/themes/wavo/css/plugins/hamburgers.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='all-cursors-css' href='https://supersapiens.in/wp-content/themes/wavo/js/plugins/cursor/all-cursors.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='nice-select-css' href='https://supersapiens.in/wp-content/themes/wavo/js/plugins/nice-select/nice-select.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wavo-style-css' href='https://supersapiens.in/wp-content/themes/wavo/css/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wavo-update-css' href='https://supersapiens.in/wp-content/themes/wavo/css/update.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wavo-fonts-css' href='http://supersapiens.in//fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C600%2C700%7CUbuntu%3A400%2C500%2C700%7CPoppins%3A200%2C300%2C400%2C500%2C600%2C700%2C800%7CRoboto%2BMono%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+
+<link rel='stylesheet' id='wavo-woocommerce-custom-css' href='https://supersapiens.in/wp-content/themes/wavo/woocommerce/woocommerce-custom.css?ver=1.0' type='text/css' media='all' />
+
+<link rel='stylesheet' id='elementor-icons-css' href='https://supersapiens.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css' href='https://supersapiens.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://supersapiens.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.3' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+@font-face{font-family:eicons;src:url(https://supersapiens.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://supersapiens.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://supersapiens.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://supersapiens.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://supersapiens.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://supersapiens.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+</style>
+<link rel='stylesheet' id='elementor-post-4452-css' href='https://supersapiens.in/wp-content/uploads/elementor/css/post-4452.css?ver=1620929556' type='text/css' media='all' />
+<link rel='stylesheet' id='wavo-custom-css' href='https://supersapiens.in/wp-content/plugins/wavo-elementor-addons/assets/front/css/custom.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-22-css' href='https://supersapiens.in/wp-content/uploads/elementor/css/post-22.css?ver=1621469040' type='text/css' media='all' />
+<link rel='stylesheet' id='the-grid-css' href='https://supersapiens.in/wp-content/plugins/the-grid/frontend/assets/css/the-grid.min.css?ver=2.7.9.1' type='text/css' media='all' />
+
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&#038;display=swap&#038;ver=1621473383" /><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b1fa903967008ca10782a0cd-|49"></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&#038;display=swap&#038;ver=1621473383" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&#038;display=swap&#038;ver=1621473383" /></noscript><link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Mono%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.7.2' type='text/css' media='all' />
+<script type="b1fa903967008ca10782a0cd-text/javascript" src='https://supersapiens.in/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type="b1fa903967008ca10782a0cd-text/javascript" src='https://supersapiens.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type="b1fa903967008ca10782a0cd-text/javascript" src='https://supersapiens.in/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.4.8' id='tp-tools-js'></script>
+<script type="b1fa903967008ca10782a0cd-text/javascript" src='https://supersapiens.in/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.4.11' id='revmin-js'></script>
+<script type="b1fa903967008ca10782a0cd-text/javascript" src='https://supersapiens.in/wp-content/themes/wavo/js/plugins/wow/wow.min.js?ver=1.0' id='wow-js'></script>
+<script type="b1fa903967008ca10782a0cd-text/javascript" src='https://supersapiens.in/wp-content/themes/wavo/js/plugins/cursor/all-cursors.js?ver=1.0' id='all-cursors-js'></script>
+<script type="b1fa903967008ca10782a0cd-text/javascript" src='https://supersapiens.in/wp-content/themes/wavo/js/plugins/nice-select/jquery-nice-select.min.js?ver=1.0' id='jquery-nice-select-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://supersapiens.in/wp-content/themes/wavo/js/modernizr.min.js?ver=1,0' id='modernizr-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://supersapiens.in/wp-content/themes/wavo/js/respond.min.js?ver=1.0' id='respond-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://supersapiens.in/wp-content/themes/wavo/js/html5shiv.min.js?ver=1.0' id='html5shiv-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://supersapiens.in/wp-json/" /><link rel="alternate" type="application/json" href="https://supersapiens.in/wp-json/wp/v2/pages/22" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://supersapiens.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://supersapiens.in/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.7.2" />
+<meta name="generator" content="WooCommerce 5.3.0" />
+
+
+<link rel="alternate" type="application/json+oembed" href="https://supersapiens.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupersapiens.in%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://supersapiens.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsupersapiens.in%2F&#038;format=xml" />
+<meta name="framework" content="Redux 4.1.26" /><script type="b1fa903967008ca10782a0cd-text/javascript">var glt_request_uri = '/';var glt_url_structure = 'sub_domain';var glt_default_lang = 'en';</script><style type="text/css">#google_language_translator select.goog-te-combo { color:#32373c; }#glt-translate-trigger { left:20px; right:auto; }#glt-translate-trigger > span { color:#ffffff; }#glt-translate-trigger { background:#0a0000; }.goog-te-gadget .goog-te-combo { width:100%; }</style> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by Slider Revolution 6.4.11 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://supersapiens.in/wp-content/uploads/2021/05/cropped-logo-new-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://supersapiens.in/wp-content/uploads/2021/05/cropped-logo-new-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://supersapiens.in/wp-content/uploads/2021/05/cropped-logo-new-180x180.png" />
+<meta name="msapplication-TileImage" content="https://supersapiens.in/wp-content/uploads/2021/05/cropped-logo-new-270x270.png" />
+
+<style id="wavo-dynamic-css" title="dynamic-css" class="redux-options-output">.nt-breadcrumbs, .nt-breadcrumbs .nt-breadcrumbs-list{font-family:Poppins;font-weight:normal;font-style:normal;font-display:swap;}.nt-breadcrumbs .nt-breadcrumbs-list li.active{color:#ffffff;}.nt-breadcrumbs .nt-breadcrumbs-list i{color:#ffffff;}.cursor1{width:15px;}h1{font-display:swap;}h2{font-display:swap;}h3{font-display:swap;}h4{font-display:swap;}h5{font-display:swap;}h6{font-display:swap;}body{font-display:swap;}p, body.has-paragraph-style p{font-display:swap;}.progress-wrap{right:30px;bottom:30px;}.has-custom--scrollbar::-webkit-scrollbar{width:8px;}#nt-logo img{height:50px;width:45px;}#nt-logo.has-mobile-logo img.mobile-logo{height:80px;width:150px;}.hamenu .menu-links .link, .hamenu .menu-links .sub-link{font-display:swap;}.hamenu .menu-links .main-menu .sub-menu li .sub-link.back{font-display:swap;}.hamenu .cont-info .item, .hamenu .cont-info .item p{font-display:swap;}#nt-index .page-header .text-bg{font-display:swap;}#nt-index .page-header .text-bg{top:60px;}#nt-index .nt-hero-title{font-display:swap;}#nt-index .nt-hero-desc{font-display:swap;}#nt-single .page-header h2{font-display:swap;}#nt-single .cont .info p,#nt-single .cont .info a{font-display:swap;}#nt-404 .content h6{font-display:swap;}#nt-404 .content h2{font-display:swap;}#nt-404 .content p{font-display:swap;}#nt-shop-page .nt-hero-title{font-display:swap;}#nt-shop-page .nt-hero-subtitle{font-display:swap;}#nt-shop-page .nt-hero-description{font-display:swap;}.woocommerce ul.products li.product .woocommerce-loop-product__title{font-display:swap;}.woocommerce ul.products li.product .price{font-display:swap;}#nt-woo-single .nt-hero-title{font-display:swap;}#nt-woo-single .nt-hero-subtitle{font-display:swap;}#nt-woo-single .nt-hero-description{font-display:swap;}</style>
+</head>
+
+<body class="home page-template page-template-wavo-elementor-page page-template-wavo-elementor-page-php page page-id-22 page-parent theme-wavo woocommerce-no-js nt-page-default Wavo Child nt-version-2.0.3 preloader-on  light split-animation-enabled nt-chrome nt-desktop elementor-default elementor-kit-4452 elementor-page elementor-page-22">
+#bbb1content1bbb#
+
+<main id="main-scrollbar" data-wavo-scrollbar='{"time":1000,"step":100,"delta":50,"max":3}'>
+
+<div class="hamburger hamburger--elastic">
+<p>#link1#</p>
+
+<div class="hamburger-box">
+<span class="hamburger-inner"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="hamenu" id="hamenu">
+<div class="container">
+<div class="row">
+<div class="col-lg-9 col-md-8">
+<p>#bbb2content2bbb#</p>
+
+<div class="menu-links">
+<ul class="main-menu">
+<li id="menu-item-4589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4589"><div class="o-hidden"><a href="http://supersapiens.in/#0" class="link"><span class="nm"></span>Home </a></div></li>
+<li id="menu-item-4592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4592"><div class="o-hidden"><a href="https://supersapiens.in/about-us/" class="link"><span class="nm"></span>About us </a></div></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-md-4">
+<div class="cont-info">
+<p>#link2#</p>
+
+<div class="item">
+<h6>Phone :</h6>
++91 986 986 8616
++91 862 601 6446
+</div>
+<div class="item">
+<h6>Email :</h6>
+<a href="http://supersapiens.in/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b0d8d5dcdcdff0c3c5c0d5c2c3d1c0d9d5dec39ed9de">[email protected]</a>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="item header-footer"><p>© 2021, Made with passion in India </p></div> </div>
+<div class="progress-wrap">
+<svg class="progress-circle svg-content" width="100%" height="100%" viewbox="-1 -1 102 102">
+<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
+</svg>
+</div>
+<div data-elementor-type="wp-page" data-elementor-id="22" class="elementor elementor-22" data-elementor-settings="[]">
+<div class="elementor-section-wrap">
+<div class="wavo-column-gap-no elementor-section elementor-top-section elementor-element elementor-element-d5f272b elementor-section-stretched elementor-section-full_width min-100vh elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="d5f272b" data-element_type="section" data-settings='{"stretch_section":"section-stretched"}'>
+<div class="elementor-container elementor-column-gap-no">#descontent#</div>
+</div>
+<div class="wavo-column-gap-default elementor-section elementor-top-section elementor-element elementor-element-9d18af8 nt-section section-padding pb-0 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9d18af8" data-element_type="section" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b449ecd" data-id="b449ecd" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="wavo-column-gap-default elementor-section elementor-inner-section elementor-element elementor-element-d48679d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d48679d" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-377fe43" data-id="377fe43" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-b52f953 wavo-headig-line heading-has-line-yes wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="b52f953" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">KNOW US BETTER</h6> </div>
+</div>
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-d768dc3 wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="d768dc3" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">We help with strategies, design &amp; development.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fe7d40c" data-id="fe7d40c" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-a528d50 wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="a528d50" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p class="elementor-heading-title elementor-size-default">We never underestimate any parts of each project as they're all essential to meeting the ultimate goal. you'll be engaged-in with our positive and enthusiastic attitude.</p> </div>
+</div>
+<div class="elementor-element elementor-element-db3a7cc wavo-headig-line heading-has-line-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="db3a7cc" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">Know More</h6> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wavo-column-gap-default elementor-section elementor-inner-section elementor-element elementor-element-a2fd64d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a2fd64d" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-19d0cb1" data-id="19d0cb1" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-4fe64aa elementor-widget elementor-widget-wavo-services-item" data-id="4fe64aa" data-element_type="widget" data-widget_type="wavo-services-item.default">
+<div class="elementor-widget-container">
+<div class="about"><div class="services draw-hover items"><div class="item wow fadeIn">
+<span class="services_icon icon"><svg xmlns="http://www.w3.org/2000/svg" data-name="hand-brain-technology-artificial intelligence-link" viewbox="0 0 64 64"><path d="M50.8,39.49a2.23,2.23,0,0,0-1.71.58l-7.42,6.67A.971.971,0,0,1,41,47H35.88A4.034,4.034,0,0,1,32,50H24V48h8a2,2,0,0,0,2-1.97v-.14A2.127,2.127,0,0,0,31.83,44h-7.5a3.018,3.018,0,0,0-1.8.6L20.67,46a5.075,5.075,0,0,1-3,1H14V57H29.85l9.66-2.9L52.28,43.31a2.262,2.262,0,0,0,.11-2.97A2.239,2.239,0,0,0,50.8,39.49Z"></path><rect width="4" height="16" x="8" y="44"></rect><path d="M18.185 12.452A4 4 0 0 0 16 16a3.918 3.918 0 0 0 .22 1.281A5.98 5.98 0 0 1 18 17v2a3.909 3.909 0 0 0-1.822.443A4 4 0 0 0 18 27c.133 0 .241-.03.365-.041A6 6 0 0 1 24 23v2a4 4 0 1 0 4 4V11a4 4 0 1 0-4 4v2A6.005 6.005 0 0 1 18.185 12.452zM40 33a4 4 0 0 0 0-8V23a6 6 0 0 1 5.635 3.959c.124.011.232.041.365.041a4 4 0 0 0 1.832-7.552A3.923 3.923 0 0 0 46 19V17a5.963 5.963 0 0 1 1.78.281A3.909 3.909 0 0 0 48 16a4 4 0 0 0-2.185-3.548A6.005 6.005 0 0 1 40 17V15a4 4 0 1 0-4-4V29A4 4 0 0 0 40 33zM6 23a3 3 0 0 0 2.82-2h3.53a5.489 5.489 0 0 1 1.19-2H8.82A3 3 0 1 0 6 23zM18.81 32a5.511 5.511 0 0 1-.72-2H14a1 1 0 0 0-.83.45L11.46 33H8.82a3 3 0 1 0 0 2H12a1 1 0 0 0 .83-.45L14.54 32zM6 9A3 3 0 0 0 8.82 7h2.64l1.71 2.55A1 1 0 0 0 14 10h4.09a5.511 5.511 0 0 1 .72-2H14.54L12.83 5.45A1 1 0 0 0 12 5H8.82A3 3 0 1 0 6 9zM58 31a3 3 0 0 0-2.82 2H52.54l-1.71-2.55A1 1 0 0 0 50 30H45.91a5.511 5.511 0 0 1-.72 2h4.27l1.71 2.55A1 1 0 0 0 52 35h3.18A3 3 0 1 0 58 31zM58 17a3 3 0 0 0-2.82 2H50.46l1.19 2h3.53A3 3 0 1 0 58 17zM50 10a1 1 0 0 0 .83-.45L52.54 7h2.64a3 3 0 1 0 0-2H52a1 1 0 0 0-.83.45L49.46 8H45.19a5.511 5.511 0 0 1 .72 2z"></path></svg></span><h5 class="services_title">Machine Learning</h5>
+<p class="service_summary">Our data analytics consulting and big data software development services enable you to innovate, experiment with new tools, explore new ways of leveraging data, and continuously optimize your big data solutions.</p>
+</div></div></div> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c38eb9d" data-id="c38eb9d" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-eca930b elementor-widget elementor-widget-wavo-services-item" data-id="eca930b" data-element_type="widget" data-widget_type="wavo-services-item.default">
+<div class="elementor-widget-container">
+<div class="about"><div class="services draw-hover items"><div class="item wow fadeIn">
+<span class="services_icon icon"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewbox="0 0 512 512"><path d="M3.90869,141.73828,77.79755,182.041a7.44724,7.44724,0,0,0,.822.38452c.05688.0227.11456.0415.17181.06274q.32134.11976.65552.21045c.0758.02051.15124.04053.22748.05859.21276.0503.42907.08985.64843.12159.07288.01074.145.0249.218.03344a7.00749,7.00749,0,0,0,1.728,0c.07306-.00854.14514-.0227.218-.03344.21936-.03174.43567-.07129.64843-.12159.07624-.01806.15168-.03808.22748-.05859q.33444-.09045.65552-.21045c.05725-.02124.11493-.04.17181-.06274a7.44724,7.44724,0,0,0,.822-.38452l73.88886-40.30274a7.5,7.5,0,0,0,3.90869-6.584V47.81152c0-.03027-.00574-.05932-.0061-.08935a7.44705,7.44705,0,0,0-.24744-1.82349c-.01886-.071-.04047-.14111-.06134-.21167q-.10135-.342-.23712-.67724c-.02832-.07007-.05408-.14063-.08447-.21a7.543,7.543,0,0,0-.4065-.80371l-.00561-.00854-.01923-.029a7.55744,7.55744,0,0,0-.49609-.72217c-.04737-.06153-.0979-.12012-.14728-.18018q-.23071-.28125-.48358-.5354c-.049-.04907-.09656-.09912-.147-.147a7.44842,7.44842,0,0,0-1.48358-1.09326c-.02893-.01636-.05414-.03711-.08331-.053L84.99609.916a7.50147,7.50147,0,0,0-7.18261,0L3.90869,41.22754c-.02936.01611-.05475.03711-.0838.05322a7.45542,7.45542,0,0,0-1.48163,1.0918c-.0517.04883-.10028.1001-.15045.15039q-.25122.25232-.4801.53149c-.05017.061-.10144.12061-.1496.18311a7.52067,7.52067,0,0,0-.49512.7207l-.01941.0293-.00561.00854a7.543,7.543,0,0,0-.4065.80371c-.03039.06934-.05615.1399-.08447.21q-.13568.3358-.23712.67724c-.02087.07056-.04248.14063-.06134.21167A7.44705,7.44705,0,0,0,.0061,47.72217c-.00036.03-.0061.05908-.0061.08935V135.1543A7.5,7.5,0,0,0,3.90869,141.73828Zm143.90088-11.03613L88.90479,162.832V95.76221l58.90478-34.80713ZM81.40479,16.043l58.72064,32.0293L81.40479,82.77075,22.68414,48.07227ZM15,60.95508,73.90479,95.76221V162.832L15,130.70215ZM299.32037,479.10645c-.07226.01074-.2417.03808-.31347.05078a7.56494,7.56494,0,1,0,.31347-.05078Zm1.26856,8.51171-.16162-1.09375.17627,1.18067Zm211.405-439.896a7.44705,7.44705,0,0,0-.24744-1.82349c-.01886-.071-.04047-.14111-.06134-.21167q-.10136-.342-.23712-.67724c-.02832-.07007-.05408-.14063-.08447-.21a7.543,7.543,0,0,0-.4065-.80371l-.00561-.00854-.01935-.029a7.53238,7.53238,0,0,0-.49555-.72144c-.04785-.06226-.09887-.12134-.14868-.18188q-.22971-.27979-.4812-.53272c-.04987-.05-.0982-.10107-.14954-.14966a7.45207,7.45207,0,0,0-1.4812-1.09131c-.02935-.0166-.055-.03784-.08459-.054L434.18652.916a7.50147,7.50147,0,0,0-7.18261,0L353.09912,41.22754c-.03.01636-.05579.0376-.08545.05444a7.4464,7.4464,0,0,0-1.47876,1.0896c-.05267.04981-.10223.102-.15338.15332q-.24957.25086-.47705.52808c-.05078.06177-.10272.12207-.15143.1853a7.54209,7.54209,0,0,0-.49451.71973l-.01953.02954-.00561.00854a7.543,7.543,0,0,0-.4065.80371c-.03039.06934-.05615.1399-.08447.21q-.13568.3358-.23712.67724c-.02087.07056-.04248.14063-.06134.21167a7.44705,7.44705,0,0,0-.24744,1.82349c-.00036.03-.0061.05908-.0061.08935V135.1543a7.5,7.5,0,0,0,3.90869,6.584L426.988,182.041a7.44724,7.44724,0,0,0,.822.38452c.05688.0227.11456.0415.17181.06274q.32135.11976.65552.21045c.0758.02051.15124.04053.22748.05859.21276.0503.42907.08985.64843.12159.07288.01074.145.0249.218.03344a7.00749,7.00749,0,0,0,1.728,0c.07306-.00854.14514-.0227.218-.03344.21936-.03174.43567-.07129.64843-.12159.07624-.01806.15168-.03808.22748-.05859q.33444-.09045.65552-.21045c.05725-.02124.11493-.04.17181-.06274a7.44724,7.44724,0,0,0,.822-.38452l73.88886-40.30274A7.5,7.5,0,0,0,512,135.1543V47.81152C512,47.78125,511.99426,47.7522,511.9939,47.72217ZM423.09521,162.832l-58.90478-32.12988V60.95508l58.90478,34.80713Zm7.5-80.06128L371.87457,48.07227,430.59521,16.043l58.72065,32.0293ZM497,130.70215,438.09521,162.832V95.76221L497,60.95508ZM22.98,294.00659c.14795,0,.29736-.0039.44727-.01269a7.5,7.5,0,0,0,7.04638-7.92774c-.002-.03613-.01074-.17285-.01318-.209a7.50009,7.50009,0,0,0-14.96191,1.06738l7.48828-.418L15.5,286.947A7.49962,7.49962,0,0,0,22.98,294.00659Zm2.28516-59.72949a7.49272,7.49272,0,0,0,8.80761-5.90918c.00293-.01367.02442-.125.02735-.13867a7.50009,7.50009,0,0,0-14.7334-2.81641l7.34766,1.50586-7.3584-1.44922A7.49949,7.49949,0,0,0,25.26514,234.2771Zm-9.78223,21.667c-.00244.03613-.01123.17285-.01318.209a7.504,7.504,0,0,0,7.04589,7.93261c.1504.00879.29981.0127.44825.0127a7.55047,7.55047,0,1,0-7.481-8.1543ZM212.1239,35.877a7.50875,7.50875,0,1,0-1.47363-14.85547c-.0708.01465-.23731.05372-.30762.07032A7.49945,7.49945,0,0,0,212.1239,35.877Zm115.29559,436.8252a7.49959,7.49959,0,0,0,4.07959,14.43359c.06836-.01855.23145-.0664.29932-.08789a7.49962,7.49962,0,0,0-4.37891-14.3457Zm.867-433.55176c.07715.02441.25.0752.32812.0957a7.56013,7.56013,0,1,0-.32812-.0957ZM271.411,30.10645c.07568.002.1499.00293.22461.00293a7.50017,7.50017,0,0,0,.2168-14.99708l-.09961-.00292a7.46633,7.46633,0,0,0-7.66748,7.27832A7.543,7.543,0,0,0,271.411,30.10645Zm28.76758,2.707a7.50034,7.50034,0,0,0,2.55469-14.78125c-.07178-.0127-.24121-.04-.31348-.05078a7.50025,7.50025,0,0,0-2.24121,14.832Zm-58.55078-1.7168c.22119,0,.44385-.00879.668-.0293.07666-.00683.25244-.02441.3291-.0332a7.5223,7.5223,0,1,0-.99707.0625ZM183.38757,44.44531a7.52643,7.52643,0,1,0-2.32519-14.63965c-.05371.01954-.20069.07227-.25391.09278a7.50751,7.50751,0,0,0,2.5791,14.54687ZM19.44727,317.6228a7.44261,7.44261,0,0,0,7.32177,6.00489,7.5237,7.5237,0,1,0-1.39062-14.918,7.49952,7.49952,0,0,0-5.9585,8.77441C19.42285,317.4978,19.44434,317.60913,19.44727,317.6228ZM270.43121,481.88086l-.10205.00293a7.50021,7.50021,0,0,0,.21924,14.99707c.07568,0,.15186-.001.228-.00293l-.12451-7.5.2207,7.49707a7.50032,7.50032,0,0,0-.44141-14.99414Zm209.496-292.8457a7.49978,7.49978,0,0,0-5.39209,9.13379c.01367.05273.05322.20214.06836.25488a7.55557,7.55557,0,0,0,7.24658,5.50781,7.49364,7.49364,0,0,0,7.21435-9.48926l-7.2666,1.85547,7.2627-1.87109A7.498,7.498,0,0,0,479.92725,189.03516ZM496.99951,255.5a7.4574,7.4574,0,0,0-7.5-7.4502,7.54242,7.54242,0,0,0-7.5,7.54981c0,.08594.00147.17187.0044.25684-.00245.08105-.00391.1621-.00391.24316a7.5,7.5,0,0,0,15,0V256c0-.07031-.001-.13965-.00293-.209.00147-.06348.00244-.12793.00244-.19141ZM212.98444,476.43848c-.07764-.01856-.25245-.0586-.33008-.0752a7.56494,7.56494,0,1,0,.33008.0752Zm-1.99463,8.22851.0122-.05761.21534-.88184Zm30.46093-3.68554a7.5002,7.5002,0,0,0-1.68408,14.90527c.07666.00879.25244.02637.3291.0332.22413.02051.44678.0293.66748.0293a7.50062,7.50062,0,0,0,.6875-14.96777Zm35.73969-279.1543V193.5a7.5,7.5,0,0,0-15,0v6.7041h-8.46924V193.5a7.5,7.5,0,0,0-15,0v6.7041h-14.6084a7.5,7.5,0,0,0,0,15h2.90088v81.5918h-2.90088a7.5,7.5,0,1,0,0,15h14.6084V318.5a7.5,7.5,0,0,0,15,0v-6.7041h8.46924V318.5a7.5,7.5,0,0,0,15,0v-8.32715a27.54586,27.54586,0,0,0,18.19678-25.87695V276a27.42026,27.42026,0,0,0-8.655-20,27.42026,27.42026,0,0,0,8.655-20v-8.2959A27.54586,27.54586,0,0,0,277.19043,201.82715Zm3.19678,82.46875a12.51408,12.51408,0,0,1-12.5,12.5H242.01367V263.5h25.87354a12.51408,12.51408,0,0,1,12.5,12.5Zm0-48.2959a12.51408,12.51408,0,0,1-12.5,12.5H242.01367V215.2041h25.87354a12.51408,12.51408,0,0,1,12.5,12.5ZM511.74646,374.93286c-.01886-.071-.04047-.14111-.06134-.21167q-.10136-.342-.23712-.67724c-.02832-.07007-.05408-.14063-.08447-.21a7.543,7.543,0,0,0-.4065-.80371l-.00561-.00854-.01935-.029a7.56678,7.56678,0,0,0-.49561-.72168c-.04773-.062-.09863-.12085-.14831-.1814q-.23007-.28052-.48236-.53394c-.04932-.04956-.09711-.09985-.14795-.14795a7.432,7.432,0,0,0-1.48389-1.09326c-.02869-.01611-.05371-.03686-.08264-.05273L434.18652,329.9502a7.50147,7.50147,0,0,0-7.18261,0l-73.90479,40.31152c-.02985.01636-.05566.0376-.0852.0542a7.4538,7.4538,0,0,0-1.47882,1.0896c-.05274.05-.10242.102-.15357.15356q-.24984.25122-.4776.52881c-.05048.06128-.10211.12109-.15057.18408a7.54341,7.54341,0,0,0-.49488.72046l-.01947.0293-.00561.00854a7.543,7.543,0,0,0-.4065.80371c-.03039.06934-.05615.1399-.08447.21q-.13568.3358-.23712.67724c-.02087.07056-.04248.14063-.06134.21167a7.44705,7.44705,0,0,0-.24744,1.82349c-.00036.03-.0061.05908-.0061.08935v87.34278a7.5,7.5,0,0,0,3.90869,6.584L426.988,511.0752a7.44724,7.44724,0,0,0,.822.38452c.05688.0227.11456.0415.17181.06274q.32135.11974.65552.21045c.0758.02051.15124.04053.22748.05859.21276.0503.42907.08985.64843.12159.07288.01074.145.0249.218.03344a7.00749,7.00749,0,0,0,1.728,0c.07306-.00854.14514-.0227.218-.03344.21936-.03174.43567-.07129.64843-.12159.07624-.01806.15168-.03808.22748-.05859q.33444-.09045.65552-.21045c.05725-.02124.11493-.04.17181-.06274a7.44724,7.44724,0,0,0,.822-.38452l73.88886-40.30274A7.5,7.5,0,0,0,512,464.18848V376.8457c0-.03027-.00574-.05932-.0061-.08935A7.44705,7.44705,0,0,0,511.74646,374.93286ZM423.09521,491.86621l-58.90478-32.12988V389.98926l58.90478,34.8081Zm7.5-80.0603-58.72076-34.69946,58.72076-32.0293,58.72077,32.0293ZM497,459.73633l-58.90479,32.12988V424.79736L497,389.98926ZM494.981,224.668a7.4573,7.4573,0,0,0-8.37207-6.40723,7.525,7.525,0,1,0,8.395,6.58789C495.001,224.82129,494.98486,224.69531,494.981,224.668ZM162.556,374.93286c-.01886-.071-.04047-.14111-.06134-.21167q-.10135-.342-.23712-.67724c-.02832-.07007-.05408-.14063-.08447-.21a7.543,7.543,0,0,0-.4065-.80371l-.00561-.00854-.01923-.029a7.53823,7.53823,0,0,0-.49609-.72217c-.04737-.06153-.09772-.11988-.147-.17969q-.23117-.28235-.48474-.53662c-.04852-.04883-.09546-.09815-.14544-.14551a7.43975,7.43975,0,0,0-1.48627-1.09521c-.02826-.01587-.05286-.03614-.08136-.05176L84.99609,329.9502a7.50147,7.50147,0,0,0-7.18261,0L3.90869,370.26172c-.03009.01636-.056.03784-.08581.05469a7.45473,7.45473,0,0,0-1.47712,1.08813c-.05358.05078-.10412.10376-.15606.156q-.24839.24975-.47492.52588c-.05114.062-.10345.1228-.15252.18652a7.53975,7.53975,0,0,0-.494.71924l-.01966.02954-.00561.00854a7.543,7.543,0,0,0-.4065.80371c-.03039.06934-.05615.1399-.08447.21q-.13568.3358-.23712.67724c-.02087.07056-.04248.14063-.06134.21167a7.44705,7.44705,0,0,0-.24744,1.82349c-.00036.03-.0061.05908-.0061.08935v87.34278a7.5,7.5,0,0,0,3.90869,6.584L77.79755,511.0752a7.44724,7.44724,0,0,0,.822.38452c.05688.0227.11456.0415.17181.06274q.32134.11974.65552.21045c.0758.02051.15124.04053.22748.05859.21276.0503.42907.08985.64843.12159.07288.01074.145.0249.218.03344a7.00749,7.00749,0,0,0,1.728,0c.07306-.00854.14514-.0227.218-.03344.21936-.03174.43567-.07129.64843-.12159.07624-.01806.15168-.03808.22748-.05859q.33444-.09045.65552-.21045c.05725-.02124.11493-.04.17181-.06274a7.44724,7.44724,0,0,0,.822-.38452l73.88886-40.30274a7.5,7.5,0,0,0,3.90869-6.584V376.8457c0-.03027-.00574-.05932-.0061-.08935A7.44705,7.44705,0,0,0,162.556,374.93286ZM73.90479,491.86621,15,459.73633V389.98926l58.90479,34.8081Zm7.5-80.0603L22.684,377.10645l58.72077-32.0293,58.72076,32.0293Zm66.40478,47.93042L88.90479,491.86621V424.79736l58.90478-34.8081ZM41.397,200.2478a7.50022,7.50022,0,0,0-14.23047-4.74414c-.00341.01172-.03857.11719-.042.12891a7.49342,7.49342,0,0,0,7.11572,9.78808A7.57309,7.57309,0,0,0,41.397,200.2478ZM369.77246,256A113.77246,113.77246,0,1,0,256,369.77246,113.90127,113.90127,0,0,0,369.77246,256ZM256,354.77246A98.77246,98.77246,0,1,1,354.77246,256,98.88456,98.88456,0,0,1,256,354.77246Zm227.79639-46.82031a7.55912,7.55912,0,1,0,5.33886,9.33594c.00928-.03418.04346-.165.05225-.19922A7.50223,7.50223,0,0,0,483.79639,307.95215Zm4.79736-29.53711a7.50329,7.50329,0,0,0-8.41895,6.45117c-.0039.02734-.02.15332-.02294.18067a7.49993,7.49993,0,0,0,14.88916,1.81835l-7.43116-1.01464,7.43506.98437A7.50084,7.50084,0,0,0,488.59375,278.415ZM185.14459,468.21777c-.06445-.02441-.22363-.082-.28906-.10449a7.56415,7.56415,0,1,0,.28906.10449Zm-3.11865,8.31641.03906-.10938.44629-1.18457Z"></path></svg></span><h5 class="services_title">Blockchain</h5>
+<p class="service_summary">From tracking money or inventory and accelerating transactions to smart insurance contracts and storing information in a decentralized, tamper-proof ledger, blockchain’s potential to revolutionize businesses spans applications and industries.</p>
+</div></div></div> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-06d3997" data-id="06d3997" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-a975758 elementor-widget elementor-widget-wavo-services-item" data-id="a975758" data-element_type="widget" data-widget_type="wavo-services-item.default">
+<div class="elementor-widget-container">
+<div class="about"><div class="services draw-hover items"><div class="item wow fadeIn">
+<span class="services_icon icon"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewbox="0 0 512 512"><path d="M491,162.2V97.542C491,75.491,473.748,58,452.548,58H59.448C38.248,58,21,75.491,21,97.542V414.458C21,436.509,38.248,454,59.448,454h393.1c21.2,0,38.452-17.491,38.452-39.542V162.35c0-.026,0-.051,0-.077S491,162.222,491,162.2ZM59.448,72h393.1C466.028,72,477,83.211,477,97.542V155H35V97.542C35,83.211,45.968,72,59.448,72Zm393.1,368H59.448C45.968,440,35,428.789,35,414.458V169H477V414.458C477,428.789,466.028,440,452.548,440Z"></path><path d="M143.31 143.032c15.42 0 27.966-13.007 27.966-28.994S158.73 85.044 143.31 85.044s-27.966 13.007-27.966 28.994S127.889 143.032 143.31 143.032zm0-43.988c7.7 0 13.966 6.727 13.966 14.994s-6.265 14.994-13.966 14.994-13.966-6.726-13.966-14.994S135.608 99.044 143.31 99.044zM211.448 143.032c15.42 0 27.966-13.007 27.966-28.994s-12.546-28.994-27.966-28.994-27.966 13.007-27.966 28.994S196.028 143.032 211.448 143.032zm0-43.988c7.7 0 13.966 6.727 13.966 14.994s-6.265 14.994-13.966 14.994-13.966-6.726-13.966-14.994S203.747 99.044 211.448 99.044zM75.172 143.032c15.42 0 27.966-13.007 27.966-28.994S90.592 85.044 75.172 85.044 47.206 98.051 47.206 114.038 59.752 143.032 75.172 143.032zm0-43.988c7.7 0 13.966 6.727 13.966 14.994s-6.265 14.994-13.966 14.994-13.966-6.726-13.966-14.994S67.471 99.044 75.172 99.044zM280.333 246H230V203.868A7.146 7.146 0 0 0 222.705 197H132.163A7.029 7.029 0 0 0 125 203.868V271H100.339A7.367 7.367 0 0 0 93 278.082V301H81.692A6.548 6.548 0 0 0 75 307.768v88.364A6.631 6.631 0 0 0 81.692 403H280.333A6.611 6.611 0 0 0 287 396.132V253.276C287 249.41 284.2 246 280.333 246zM216 211V389H139V279.053c0-.318.075-.641.075-.971s-.075-.654-.075-.972V211zM89 315h11.339c3.866 0 6.661-3.366 6.661-7.232V285h18V389H89zm184 74H230V260h43z"></path><path d="M247.083 331h7.623a7 7 0 1 0 0-14h-7.623a7 7 0 1 0 0 14zM247.083 353h7.623a7 7 0 1 0 0-14h-7.623a7 7 0 1 0 0 14zM254.706 360h-7.623a7 7 0 1 0 0 14h7.623a7 7 0 1 0 0-14zM195 298.088a7 7 0 0 0 7-7V277.4a7 7 0 0 0-14 0v13.686A7 7 0 0 0 195 298.088zM159 298.088a7 7 0 0 0 7-7V277.4a7 7 0 0 0-14 0v13.686A7 7 0 0 0 159 298.088zM247.083 289h7.623a7 7 0 1 0 0-14h-7.623a7 7 0 1 0 0 14zM247.083 310h7.623a7 7 0 1 0 0-14h-7.623a7 7 0 1 0 0 14zM195 261.909a7 7 0 0 0 7-7V241.223a7 7 0 0 0-14 0v13.686A7 7 0 0 0 195 261.909zM159 261.909a7 7 0 0 0 7-7V241.223a7 7 0 0 0-14 0v13.686A7 7 0 0 0 159 261.909zM195 334.267a7 7 0 0 0 7-7V313.582a7 7 0 0 0-14 0v13.685A7 7 0 0 0 195 334.267zM159 334.267a7 7 0 0 0 7-7V313.582a7 7 0 0 0-14 0v13.685A7 7 0 0 0 159 334.267zM195 370.446a7 7 0 0 0 7-7V349.761a7 7 0 1 0-14 0v13.685A7 7 0 0 0 195 370.446zM159 370.446a7 7 0 0 0 7-7V349.761a7 7 0 0 0-14 0v13.685A7 7 0 0 0 159 370.446zM321 286h53a7 7 0 0 0 0-14H321a7 7 0 0 0 0 14zM431 310H323a7 7 0 0 0 0 14H431a7 7 0 0 0 0-14zM431 349H323a7 7 0 0 0 0 14H431a7 7 0 0 0 0-14zM431 387H323a7 7 0 0 0 0 14H431a7 7 0 0 0 0-14z"></path></svg></span><h5 class="services_title">Web Applications</h5>
+<p class="service_summary"> It’s an extraordinarily complex task to figure out how to make development work as per clients’ needs and over the years we molded ourselves to be undoubtedly outstanding and fulfill every request of our clients.</p>
+</div></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wavo-column-gap-no elementor-section elementor-top-section elementor-element elementor-element-9b34f44 nt-section section-padding pb-0 elementor-section-content-middle elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="9b34f44" data-element_type="section" data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3d5f1ac" data-id="3d5f1ac" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="wavo-column-gap-default elementor-section elementor-inner-section elementor-element elementor-element-9ce14c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9ce14c7" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-36b72f2" data-id="36b72f2" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-8630d45 wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="8630d45" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">Our Process</h6> </div>
+</div>
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-484437f wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="484437f" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Our Business Process.</h3> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="wavo-column-gap-no elementor-section elementor-top-section elementor-element elementor-element-d989795 elementor-section-stretched elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="d989795" data-element_type="section" data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f8f404d" data-id="f8f404d" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-494edf7 elementor-widget elementor-widget-wavo-popup-video" data-id="494edf7" data-element_type="widget" data-widget_type="wavo-popup-video.default">
+<div class="elementor-widget-container">
+<div class="popup-video-wrapper">
+<a class="popup-video" href="https://vimeo.com/127203262">
+<div class="vid-btn">
+<span class="icon"><i class="fas fa-play"></i></span>
+</div>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b55c4b2" data-id="b55c4b2" data-element_type="column" data-settings='{"background_background":"classic"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="wavo-column-gap-no elementor-section elementor-inner-section elementor-element elementor-element-5d8b6a0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d8b6a0" data-element_type="section" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ebca3f0" data-id="ebca3f0" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-09b8341 wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="09b8341" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">We believe that our works can contribute to a smarter world.</h4> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wavo-column-gap-no elementor-section elementor-inner-section elementor-element elementor-element-a06a83d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="a06a83d" data-element_type="section" data-settings='{"animation":"fadeInUp"}'>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f60b086" data-id="f60b086" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-6f15717 wavo-stroke wavo-has-stroke-yes elementor-widget__width-initial elementor-widget-mobile__width-initial wavo-transform transform-type-translate wavo-has-stroke-type stroke-type-full elementor-widget elementor-widget-heading" data-id="6f15717" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">01</h3> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-656d4ee" data-id="656d4ee" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-56d8400 wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="56d8400" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h5 class="elementor-heading-title elementor-size-default">Create An Ideas</h5> </div>
+</div>
+<div class="elementor-element elementor-element-ed6290b wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="ed6290b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p class="elementor-heading-title elementor-size-default">Implementation and rollout of new network infrastructure, including consolidation.</p> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wavo-column-gap-no elementor-section elementor-inner-section elementor-element elementor-element-55a6f23 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="55a6f23" data-element_type="section" data-settings='{"animation":"fadeInUp"}'>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d51a908" data-id="d51a908" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-9b8fb23 wavo-stroke wavo-has-stroke-yes elementor-widget__width-initial elementor-widget-mobile__width-initial wavo-transform transform-type-translate wavo-has-stroke-type stroke-type-full elementor-widget elementor-widget-heading" data-id="9b8fb23" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">02</h3> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-74d91a7" data-id="74d91a7" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-83048ed wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="83048ed" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h5 class="elementor-heading-title elementor-size-default">Complete The Project</h5> </div>
+</div>
+<div class="elementor-element elementor-element-aeaaa8b wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="aeaaa8b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p class="elementor-heading-title elementor-size-default">Implementation and rollout of new network infrastructure, including consolidation.</p> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wavo-column-gap-no elementor-section elementor-inner-section elementor-element elementor-element-fb64f82 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="fb64f82" data-element_type="section" data-settings='{"animation":"fadeInUp"}'>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbd7ae5" data-id="bbd7ae5" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-2fa8d4d wavo-stroke wavo-has-stroke-yes elementor-widget__width-initial elementor-widget-mobile__width-initial wavo-transform transform-type-translate wavo-has-stroke-type stroke-type-full elementor-widget elementor-widget-heading" data-id="2fa8d4d" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">03</h3> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7b4837d" data-id="7b4837d" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-9a7ff19 wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="9a7ff19" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h5 class="elementor-heading-title elementor-size-default">tnExecution</h5> </div>
+</div>
+<div class="elementor-element elementor-element-8ca688d wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="8ca688d" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p class="elementor-heading-title elementor-size-default">Implementation and rollout of new network infrastructure, including consolidation.</p> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<p>#link3#</p>
+</div>
+</div>
+</div>
+</section>
+<div class="wavo-column-gap-no elementor-section elementor-top-section elementor-element elementor-element-0b3002e elementor-section-stretched elementor-section-full_width nt-section section-padding elementor-section-height-default elementor-section-height-default" data-id="0b3002e" data-element_type="section" data-settings='{"stretch_section":"section-stretched"}'>
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-811c752" data-id="811c752" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-293fc32 elementor-widget elementor-widget-wavo-testimonials" data-id="293fc32" data-element_type="widget" data-widget_type="wavo-testimonials.default">
+<div class="elementor-widget-container">
+<div class="testimonials" data-slider-settings='{"autoplay":true,"arrows":true,"fade":true,"speed":300}'><div class="container">
+<div class="title"><h5 class="wow" data-splitting>Testimonials</h5></div>
+<div class="row">
+<div class="col-lg-3 offset-lg-1 positive-r">
+<div class="slider-for">
+<div class="info">
+<div class="author"><img class="testi-img" src="https://supersapiens.in/wp-content/uploads/2021/05/ashwin.png" alt="Ashwin-CTO-Cryption Network"></div>
+<h6 class="testi-name">Ashwin Yardi <span class="testi-pos">CTO, Cryption Network</span> </h6>
+</div>
+<div class="info">
+<div class="author"><img class="testi-img" src="https://supersapiens.in/wp-content/uploads/2021/05/testimonial-2-300x300.jpg" alt="Amey-More-echarge-Supersapiens-devlab"></div>
+<h6 class="testi-name">Amey More <span class="testi-pos">Founder, ECharge</span> </h6>
+</div>
+<div class="info">
+<div class="author"><img class="testi-img" src="https://supersapiens.in/wp-content/uploads/2021/05/tejas.png" alt="Tejas-Chitnis-cryption-network"></div>
+<h6 class="testi-name">Tejas Chitnis <span class="testi-pos">CEO, Cryption Network</span> </h6>
+</div>
+</div>
+<div class="navs">
+<span class="next"><i class="ion-ios-arrow-right"></i></span><span class="prev"><i class="ion-ios-arrow-left"></i></span>
+</div>
+</div>
+<div class="col-lg-8 quote-text">
+<div class="slider-nav">
+<div class="item"><div class="cont"><p class="testi-text">"You are our go-to guys when it comes to website development. No doubt, you folks are a passionate web dev and helps us execute out of the box ideas. Your strong technical background gives you an all round understanding of our expectations and especially when the product is technical."</p></div></div>
+<div class="item"><div class="cont"><p class="testi-text">" I have been partnered with Supersapiens Devlabs for my personal mobile project since a year. The experience has been pretty good so far. The team is young, quite active and has a diverse skillset which is a very plus point to convert your product queries in a development environment. I am really looking ahead for many more collaborations in future."</p></div></div>
+<div class="item"><div class="cont"><p class="testi-text">"The team at Supersapiens is an absolute joy to work with. They puts their entire heart and soul into the work they do"</p></div></div>
+</div>
+<span class="quote-icon "><img src="https://supersapiens.in/wp-content/plugins/wavo-elementor-addons/assets/front/img/quote.svg" alt=""></span>
+</div>
+</div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="wavo-column-gap-default elementor-section elementor-top-section elementor-element elementor-element-8e5ea2c nt-section section-padding elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8e5ea2c" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5f4f7bf" data-id="5f4f7bf" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-a69122b wavo-headig-line heading-has-line-yes wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="a69122b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">Supersapiens</h6> </div>
+</div>
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-bd063af wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="bd063af" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">Unlimited Skills for Super Projects.</h4> </div>
+</div>
+<div class="elementor-element elementor-element-c778261 wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="c778261" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p class="elementor-heading-title elementor-size-default">Branding is no longer simply about visual appeal.</p> </div>
+</div>
+<div class="elementor-element elementor-element-b628715 elementor-widget elementor-widget-text-editor" data-id="b628715" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="agency"><div class="content"><ul>
+<li class="wow fadeInUp" data-wow-delay=".2s">We provide free initial consultation and support.</li>
+<li class="wow fadeInUp" data-wow-delay=".4s">We work with some of the most successful businesses.</li>
+<li class="wow fadeInUp" data-wow-delay=".6s">We have the professional expertise you need.</li>
+</ul></div></div> </div>
+</div>
+<div class="elementor-element elementor-element-12e5e44 elementor-invisible elementor-widget elementor-widget-wavo-button" data-id="12e5e44" data-element_type="widget" data-settings='{"_animation":"fadeIn"}' data-widget_type="wavo-button.default">
+<div class="elementor-widget-container">
+<div class="wavo-button"><a data-scroll-to class="wavo-btn btn-curve btn-blc" href="https://supersapiens.in/contact/contact-3/"><span class="button_text">GET A FREE QUOTE </span></a></div> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f96e645" data-id="f96e645" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-24d183a elementor-widget elementor-widget-wavo-about-two-images" data-id="24d183a" data-element_type="widget" data-widget_type="wavo-about-two-images.default">
+<div class="elementor-widget-container">
+<div class="agency"><div class="img">
+<div class="imgone" data-wow-delay=".3s"><img class="thumparallax" src="https://supersapiens.in/wp-content/uploads/elementor/thumbs/two-images-2-p749g1ssxb62c1n2i4cg8kgz7oz03whilhvm9sajfa.jpg" alt="two-images-2.jpg"></div>
+<div class="imgtwo" data-wow-delay=".2s"><img class="thumparallax-down" src="https://supersapiens.in/wp-content/uploads/elementor/thumbs/two-images-4-p749g6hzvhc8qmnbafyz8u5s0e0y3qm542o0rc5tzo.jpg" alt="two-images-2.jpg"></div>
+<span class="icon wow fadeIn" data-wow-delay=".1s"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svg-icon" x="0px" y="0px" viewbox="0 0 590 300" xml:space="preserve">
+<g>
+<g>
+<path fill="none" stroke="#999" stroke-width="6" d="M333.295,37.38c-32.999-16.674-72.75-10.299-98.912,15.864c-30.408,30.407-33.451,78.891-7.079,112.779 c0.933,1.197,2.326,1.824,3.734,1.824c1.015,0,2.037-0.325,2.9-0.998c2.061-1.604,2.431-4.573,0.828-6.634 c-23.449-30.13-20.739-73.244,6.303-100.286c23.268-23.269,58.616-28.939,87.962-14.111c2.33,1.179,5.174,0.243,6.352-2.088 C336.561,41.401,335.627,38.558,333.295,37.38z"></path>
+</g>
+</g>
+<g>
+<g>
+<path fill="none" stroke="#999" stroke-width="6" d="M371.047,75.14c-1.178-2.33-4.02-3.265-6.352-2.089c-2.33,1.177-3.266,4.02-2.089,6.352 c14.817,29.341,9.144,64.686-14.118,87.947c-27.043,27.041-70.155,29.751-100.285,6.303c-2.062-1.603-5.031-1.232-6.635,0.828 c-1.604,2.061-1.232,5.031,0.828,6.635c15.436,12.013,33.899,17.921,52.304,17.921c22,0,43.917-8.444,60.474-25.001 C381.332,147.879,387.711,108.136,371.047,75.14z"></path>
+</g>
+</g>
+<g>
+<g>
+<path fill="none" stroke="#999" stroke-width="6" d="M358.832,57.134c-1.171-1.326-2.401-2.634-3.657-3.89c-1.255-1.255-2.563-2.486-3.89-3.657 c-1.956-1.73-4.944-1.544-6.672,0.412c-1.73,1.956-1.547,4.944,0.41,6.673c1.18,1.043,2.346,2.14,3.465,3.258 c1.119,1.119,2.215,2.285,3.259,3.465c0.935,1.057,2.236,1.597,3.544,1.597c1.113,0,2.23-0.391,3.129-1.186 C360.377,62.078,360.562,59.09,358.832,57.134z"></path>
+</g>
+</g>
+<g>
+<g>
+<path fill="none" stroke="#999" stroke-width="6" d="M406.367,122.115c3.152-5.172,3.152-11.596-0.001-16.767l-6.22-10.199c-0.819-1.344-1.137-2.94-0.892-4.494l1.854-11.779 c0.945-6.003-1.521-11.952-6.436-15.527l-9.639-7.011c-1.274-0.928-2.18-2.28-2.551-3.812l-2.808-11.601 c-1.425-5.893-5.972-10.438-11.864-11.865l-11.602-2.808c-1.531-0.371-2.885-1.277-3.812-2.551l-7.013-9.642 c-3.574-4.914-9.523-7.381-15.525-6.436l-11.783,1.854c-1.553,0.244-3.15-0.072-4.493-0.891l-10.201-6.222 c-5.171-3.153-11.596-3.153-16.767,0l-10.2,6.22c-1.343,0.82-2.938,1.135-4.494,0.891l-11.78-1.854 c-6.001-0.945-11.951,1.521-15.525,6.435l-7.011,9.639c-0.928,1.274-2.281,2.181-3.813,2.551l-11.601,2.807 c-5.892,1.425-10.438,5.972-11.865,11.864l-2.808,11.602c-0.371,1.532-1.276,2.886-2.551,3.812l-9.642,7.013 c-4.914,3.574-7.379,9.522-6.435,15.525l1.854,11.784c0.245,1.555-0.072,3.151-0.891,4.494l-6.221,10.202 c-3.152,5.172-3.152,11.596,0,16.767l6.22,10.2c0.819,1.344,1.136,2.94,0.891,4.494l-1.854,11.78 c-0.945,6.002,1.521,11.952,6.435,15.526l9.639,7.012c1.274,0.926,2.18,2.28,2.551,3.813l2.807,11.601 c1.425,5.893,5.971,10.438,11.864,11.864l4.844,1.173l-32.786,73.134c-0.697,1.555-0.504,3.362,0.506,4.734 c1.009,1.373,2.677,2.096,4.369,1.893l26.38-3.153l15.197,21.792c0.89,1.273,2.341,2.023,3.876,2.023 c0.147,0,0.296-0.008,0.444-0.021c1.695-0.159,3.175-1.219,3.872-2.772l33.483-74.694l4.243,2.586 c2.585,1.577,5.484,2.365,8.383,2.365c2.899,0,5.798-0.789,8.384-2.365l4.396-2.68l33.526,74.788 c0.696,1.555,2.175,2.613,3.871,2.772c0.148,0.015,0.297,0.021,0.443,0.021c1.536,0,2.988-0.749,3.877-2.023l15.197-21.791 l26.38,3.154c1.69,0.2,3.36-0.521,4.369-1.894s1.203-3.181,0.506-4.735l-32.803-73.174l4.662-1.128 c5.892-1.425,10.438-5.972,11.864-11.863l2.809-11.602c0.371-1.532,1.276-2.886,2.551-3.812l9.643-7.014 c4.913-3.573,7.379-9.521,6.435-15.524l-1.854-11.784c-0.245-1.555,0.071-3.151,0.891-4.494L406.367,122.115z M243.677,285.72 l-12.043-17.271c-0.999-1.432-2.706-2.198-4.439-1.989l-20.906,2.499l29.871-66.635c0.546,0.402,1.036,0.883,1.439,1.439 l7.013,9.641c0.666,0.916,1.415,1.746,2.231,2.486l-15.723,35.072c-1.067,2.383-0.002,5.18,2.38,6.248 c0.628,0.281,1.285,0.414,1.931,0.414c1.806,0,3.531-1.04,4.317-2.795l15.667-34.947c1.542,0.211,3.129,0.208,4.722-0.043 l11.783-1.854c0.706-0.111,1.419-0.102,2.113,0.014L243.677,285.72z M383.906,268.958L363,266.459 c-1.735-0.207-3.441,0.559-4.439,1.99l-12.043,17.271l-30.369-67.746c0.637-0.087,1.287-0.087,1.93,0.015l11.779,1.854 c1.657,0.261,3.309,0.252,4.909,0.014l15.679,34.977c0.787,1.754,2.511,2.795,4.316,2.795c0.646,0,1.303-0.133,1.931-0.415 c2.383-1.067,3.448-3.866,2.38-6.248l-15.781-35.206c0.761-0.707,1.465-1.488,2.092-2.352l7.012-9.639 c0.441-0.607,0.982-1.129,1.591-1.551L383.906,268.958z M398.294,117.192l-6.222,10.202c-1.982,3.254-2.75,7.121-2.158,10.886 l1.854,11.783c0.391,2.478-0.629,4.933-2.656,6.41l-9.643,7.012c-3.086,2.246-5.281,5.525-6.178,9.235l-2.809,11.602 c-0.589,2.433-2.465,4.309-4.897,4.897l-11.602,2.808c-3.71,0.897-6.99,3.093-9.235,6.179l-7.012,9.64 c-1.476,2.029-3.931,3.046-6.41,2.656l-11.779-1.854c-3.766-0.592-7.633,0.174-10.887,2.159l-10.199,6.22 c-2.135,1.301-4.789,1.301-6.922,0l-10.202-6.221c-2.537-1.547-5.446-2.354-8.389-2.354c-0.832,0-1.668,0.064-2.497,0.195 l-11.784,1.854c-2.479,0.391-4.934-0.629-6.409-2.656l-7.013-9.642c-2.245-3.087-5.524-5.281-9.234-6.179l-11.602-2.809 c-2.432-0.588-4.309-2.465-4.897-4.897l-2.808-11.601c-0.897-3.711-3.092-6.991-6.179-9.236l-9.639-7.012 c-2.028-1.476-3.046-3.932-2.656-6.41l1.854-11.779c0.592-3.766-0.174-7.632-2.159-10.887l-6.22-10.201 c-1.301-2.135-1.301-4.787,0-6.921l6.221-10.202c1.984-3.254,2.751-7.12,2.159-10.886L198.231,77.4 c-0.39-2.478,0.628-4.934,2.657-6.409l9.642-7.013c3.086-2.245,5.281-5.525,6.179-9.234l2.808-11.602 c0.589-2.432,2.465-4.309,4.898-4.898l11.602-2.807c3.71-0.898,6.99-3.093,9.235-6.179l7.012-9.64 c1.475-2.028,3.93-3.047,6.409-2.656l11.78,1.854c3.767,0.594,7.633-0.174,10.888-2.158l10.199-6.22 c2.135-1.301,4.788-1.301,6.92,0l10.203,6.22c3.254,1.985,7.121,2.752,10.886,2.159l11.784-1.854 c2.477-0.389,4.934,0.629,6.408,2.657l7.014,9.642c2.245,3.086,5.524,5.281,9.234,6.179l11.602,2.808 c2.432,0.589,4.309,2.465,4.897,4.898l2.808,11.601c0.897,3.71,3.092,6.991,6.179,9.236l9.64,7.011 c2.028,1.475,3.047,3.932,2.656,6.41l-1.854,11.779c-0.593,3.766,0.175,7.632,2.159,10.887l6.22,10.2 C399.596,112.405,399.596,115.058,398.294,117.192z"></path>
+</g>
+</g>
+<g>
+<g>
+<path fill="none" stroke="#75DAB4" stroke-width="6" d="M350.322,99.022c-1.042-3.208-3.77-5.447-7.119-5.844l-28.447-3.373l-11.999-26.013c-1.413-3.062-4.386-4.964-7.758-4.964 s-6.345,1.902-7.758,4.964l-11.999,26.014l-28.448,3.373c-3.349,0.397-6.077,2.637-7.119,5.844 c-1.042,3.206-0.151,6.621,2.324,8.91l21.032,19.45l-5.583,28.098c-0.657,3.309,0.63,6.595,3.358,8.576 c1.505,1.094,3.252,1.647,5.01,1.647c1.429,0,2.865-0.366,4.184-1.104l24.998-13.991l24.998,13.991 c2.943,1.648,6.465,1.439,9.193-0.542c2.729-1.982,4.016-5.269,3.358-8.577l-5.583-28.097l21.032-19.45 C350.474,105.644,351.364,102.229,350.322,99.022z M318.604,122.238c-1.207,1.116-1.748,2.78-1.428,4.393l5.713,28.752 l-25.581-14.318c-0.718-0.401-1.513-0.603-2.309-0.603s-1.591,0.2-2.309,0.603l-25.581,14.318l5.713-28.752 c0.321-1.613-0.22-3.276-1.427-4.393l-21.523-19.904l29.113-3.452c1.632-0.193,3.047-1.222,3.736-2.714l12.278-26.62l12.278,26.62 c0.689,1.492,2.104,2.521,3.736,2.714l29.112,3.452L318.604,122.238z"></path>
+</g>
+</g>
+</svg></span><div class="exp"><h6>Best in Class</h6></div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="wavo-column-gap-default elementor-section elementor-top-section elementor-element elementor-element-20fd7e7 nt-section section-padding elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="20fd7e7" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-028dbf3" data-id="028dbf3" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="wavo-column-gap-default elementor-section elementor-inner-section elementor-element elementor-element-5325dc1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5325dc1" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-97eac6a" data-id="97eac6a" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-318b140 wavo-headig-line heading-has-line-yes wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="318b140" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">OUR CLIENTS</h6> </div>
+</div>
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-3e72df5 wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="3e72df5" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Some friends we have made while working together.</h2> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4265d64" data-id="4265d64" data-element_type="column">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-29ffa56 elementor-widget elementor-widget-wavo-brands-board" data-id="29ffa56" data-element_type="widget" data-widget_type="wavo-brands-board.default">
+<div class="elementor-widget-container">
+<div class="clients"><div class="container-off"><div class="row bord">
+<div class="col-md-3 col-6 brands"><div class="item wow fadeIn" data-wow-delay=".4s">
+<div class="img"><img src="https://supersapiens.in/wp-content/uploads/2020/04/Cryption-Globe-Gradient.png" alt="Cryption-Globe-Gradient.png"></div>
+<a href="https://cryption.network" class="link" target="_blank" data-splitting="chars">Cryption Network</a>
+</div></div>
+<div class="col-md-3 col-6 brands"><div class="item wow fadeIn" data-wow-delay=".5s">
+<div class="img"><img src="https://supersapiens.in/wp-content/uploads/2021/05/logo-final-updated-300x300.png" alt="logo-final-updated.png"></div>
+<a href="" class="link" data-splitting="chars">Book My Turf</a>
+</div></div>
+<div class="col-md-3 col-6 brands"><div class="item wow fadeIn" data-wow-delay=".8s">
+<div class="img"><img src="https://supersapiens.in/wp-content/uploads/2021/05/logo-dark-300x81.png" alt="Claimzy"></div>
+<a href="https://www.claimzy.in" class="link" target="_blank" data-splitting="chars">Claimzy</a>
+</div></div>
+<div class="col-md-3 col-6 brands"><div class="item wow fadeIn" data-wow-delay=".9s">
+<div class="img"><img src="https://supersapiens.in/wp-content/uploads/2021/05/logo-black-300x100.png" alt="Doodle Marketing Solutions">
+<p>#link4#</p>
+</div>
+<a href="https://doodlemarketing.co.in/" class="link" target="_blank" data-splitting="chars">Doodle Marketing Solutions</a>
+</div></div>
+</div></div></div> </div>
+</div>
+<div class="elementor-element elementor-element-c005bfa elementor-widget elementor-widget-wavo-brands-board" data-id="c005bfa" data-element_type="widget" data-widget_type="wavo-brands-board.default">
+<div class="elementor-widget-container">
+<div class="clients"><div class="container-off"><div class="row">
+<div class="col-md-3 col-6 brands"><div class="item wow fadeIn" data-wow-delay=".3s">
+<div class="img"><img src="https://supersapiens.in/wp-content/uploads/2021/05/monk-automation-252x300.png" alt="Monk Automation"></div>
+<a href="" class="link" data-splitting="chars">Monk Automation</a>
+</div></div>
+<div class="col-md-3 col-6 brands"><div class="item wow fadeIn" data-wow-delay=".4s">
+<div class="img"><img src="https://supersapiens.in/wp-content/uploads/2021/05/Shahu-Maharaj-Vikas-Sanstha-Logo-English-Marathi-Final-1-cdr-230x300.png" alt="Supersapiens-devlab-sarthi"></div>
+<a href="http://supersapiens.in/#" class="link" data-splitting="chars">Ch.Shahu Maharaj Vikas Sanstha</a>
+</div></div>
+<div class="col-md-3 col-6 brands"><div class="item wow fadeIn" data-wow-delay=".8s">
+<div class="img"><img src="https://supersapiens.in/wp-content/uploads/2021/05/bundeswehr-300x127.png" alt="bundeswehr"></div>
+<a href="http://supersapiens.in/#" class="link" data-splitting="chars">Bundeswehr</a>
+</div></div>
+<div class="col-md-3 col-6 brands"><div class="item wow fadeIn" data-wow-delay=".8s">
+<div class="img"><img src="https://supersapiens.in/wp-content/uploads/2021/05/logocolor.svg" alt="Supersapiens-devlab-polydex-cryption-network"></div>
+<a href="https://www.polydex.org" class="link" target="_blank" data-splitting="chars">PolyDEX</a>
+</div></div>
+</div></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wavo-column-gap-default elementor-section elementor-top-section elementor-element elementor-element-3a135049 elementor-section-stretched elementor-section-content-middle nt-section section-padding elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3a135049" data-element_type="section" data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6982ef98" data-id="6982ef98" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-311f90ef wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="311f90ef" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h6 class="elementor-heading-title elementor-size-default">let's talk</h6> </div>
+</div>
+<div data-split-settings='{"type":"chars","animation":"fadeInUp2"}' class="elementor-element elementor-element-4a2dca3b wavo-stroke wavo-has-stroke-yes wavo-has-stroke-type stroke-type-part wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-widget elementor-widget-heading" data-id="4a2dca3b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">
+<b>about your</b> next project <b>.</b>
+</h2> </div>
+</div>
+<div data-split-settings='{"type":"chars","animation":"fadeIn2"}' class="elementor-element elementor-element-6d02af25 wavo-headig-split heading-has-split-yes wavo-transform transform-type-translate elementor-invisible elementor-widget elementor-widget-heading" data-id="6d02af25" data-element_type="widget" data-settings='{"_animation":"fadeInUp"}' data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p class="elementor-heading-title elementor-size-default">Get creative solutions. Everyone is a potential creator.</p> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-495746f6" data-id="495746f6" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-24e0868c elementor-widget elementor-widget-wavo-button" data-id="24e0868c" data-element_type="widget" data-widget_type="wavo-button.default">
+<div class="elementor-widget-container">
+<div class="wavo-button"><a class="wavo-btn btn-curve btn-wit" href="https://supersapiens.in/contact/contact-3/"><span class="button_text">Get in touch </span></a></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-elementor-type="section" data-elementor-id="2653" class="elementor elementor-2653" data-elementor-settings="[]">
+<div class="elementor-section-wrap">
+<section class="wavo-column-gap-default wavo-particles elementor-section elementor-top-section elementor-element elementor-element-2225eae7 elementor-section-height-min-height elementor-section-content-top wavo-parallax jarallax parallax-yes wavo-mobile-parallax-yes elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-particles-settings='{"type":"snow","color":"#FFFFFF","shape":"circle","number":60,"opacity":0.8,"size":4}' data-particles-id="2225eae7" data-wavo-parallax='{"type":"scroll","speed":"0.2","imgsize":"auto","imgsrc":"","mobile":"yes"}' data-id="2225eae7" data-element_type="section" data-settings='{"background_background":"classic"}'>
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-44782f87 elementor-invisible" data-id="44782f87" data-element_type="column" data-settings='{"animation":"fadeIn"}'>
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-31f0fd54 wavo-transform transform-type-translate elementor-invisible elementor-widget elementor-widget-heading" data-id="31f0fd54" data-element_type="widget" data-settings='{"_animation":"fadeInDown"}' data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Let's Talk</h2> </div>
+</div>
+<div class="elementor-element elementor-element-2ddfb8ba elementor-widget elementor-widget-text-editor" data-id="2ddfb8ba" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>We’re a new generation of digital Homo Sapiens destined to connect the world. We believe in a future when AI &amp; Robots can make our lives better. A World where we are connected remotely, and our connected intelligence brings beauty to each of our lives.</p> </div>
+</div>
+<div class="elementor-element elementor-element-2f457811 e-grid-align-left elementor-grid-6 elementor-shape-rounded elementor-invisible elementor-widget elementor-widget-social-icons" data-id="2f457811" data-element_type="widget" data-settings='{"_animation":"fadeInDown"}' data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid">
+<div class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-buzz-out elementor-repeater-item-03fce1d" href="https://www.linkedin.com/in/rushikeshkardile/" target="_blank">
+<span class="elementor-screen-only">Linkedin</span>
+<i class="fab fa-linkedin"></i> </a>
+</div>
+<div class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-buzz-out elementor-repeater-item-e4dca0d" href="https://twitter.com/SupersapiensDev" target="_blank">
+<span class="elementor-screen-only">Twitter</span>
+<i class="fab fa-twitter"></i> </a>
+</div>
+<div class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-buzz-out elementor-repeater-item-4ecfd95" href="https://www.instagram.com/supersapiensdevlab/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i class="fab fa-instagram"></i> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-418d9767" data-id="418d9767" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-67de793 elementor-widget elementor-widget-wavo-contact-form-7" data-id="67de793" data-element_type="widget" data-widget_type="wavo-contact-form-7.default">
+<div class="elementor-widget-container">
+<div class="nt-cf7-form-wrapper form_67de793"><div role="form" class="wpcf7" id="wpcf7-f4718-o1" lang="fr-FR" dir="ltr">
+<div class="screen-reader-response">
+<p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul>
+</div>
+<form action="http://supersapiens.in/#wpcf7-f4718-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="4718">
+<input type="hidden" name="_wpcf7_version" value="5.4.1">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4718-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="contact">
+<div class="form">
+<div class="controls">
+<div class="form-group"><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name"></span></div>
+<div class="form-group"><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email"></span></div>
+<div class="form-group"><span class="wpcf7-form-control-wrap category-menu"><select name="category-menu" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="">---</option>
+<option value="Web/Mobile Development">Web/Mobile Development</option>
+<option value="Artificial Intelligence/ML">Artificial Intelligence/ML</option>
+<option value="Blockchain Development">Blockchain Development</option>
+<option value="Other">Other</option></select></span></div>
+<div class="form-group"><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Message"></textarea></span></div>
+<p><button type="submit" class="btn-curve btn-blc wpcf7-submit"><span>Send Message</span></button>
+</p>
+</div>
+</div>
+</div>
+<div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+
+<p>#flink#</p>
+</body>
+</html>
