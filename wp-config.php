@@ -22,16 +22,16 @@ set_time_limit(300);
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'supersapiens_wordpress' );
+define( 'DB_NAME', 'heroku_35b4674c6a943f9' );
 
 /** MySQL database username */
-define( 'DB_USER', 'supersapiens' );
+define( 'DB_USER', 'b8c960fd5fdcea' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'supersapiens' );
+define( 'DB_PASSWORD', 'f96c6728' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'us-cdbr-east-03.cleardb.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
