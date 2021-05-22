@@ -25,10 +25,10 @@ set_time_limit(300);
 define( 'DB_NAME', 'supersapiens_wordpress' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'supersapiens' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'supersapiens' );
 
 /** MySQL hostname */
 define( 'DB_HOST', '166.62.28.140' );
